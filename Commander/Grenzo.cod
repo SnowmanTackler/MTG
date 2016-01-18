@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Brass Herald"/>
+        <card number="1" price="0" name="Clone Shell"/>
+        <card number="1" price="0" name="Crystal Ball"/>
+        <card number="1" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Spinerock Knoll"/>
+        <card number="1" price="0" name="Surging Flame"/>
+        <card number="1" price="0" name="Tel-Jilad Stylus"/>
+        <card number="1" price="0" name="Temple of Malice"/>
+        <card number="1" price="0" name="Triskelavus"/>
+        <card number="1" price="0" name="Triskelion"/>
+        <card number="1" price="0" name="Ignition Team"/>
+        <card number="1" price="0" name="Pus Kami"/>
+        <card number="1" price="0" name="Abyssal Horror"/>
+        <card number="1" price="0" name="Ascendant Evincar"/>
+        <card number="1" price="0" name="Archetype of Finality"/>
+        <card number="1" price="0" name="Dakmor Lancer"/>
+        <card number="1" price="0" name="Dark Hatchling"/>
+        <card number="1" price="0" name="Darksteel Sentinel"/>
+        <card number="1" price="0" name="Deathbringer Thoctar"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Skeletal Vampire"/>
+        <card number="1" price="0" name="Skinrender"/>
+        <card number="1" price="0" name="Badlands"/>
+        <card number="1" price="0" name="Blood Crypt"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Graven Cairns"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Dragonskull Summit"/>
+        <card number="1" price="0" name="Sulfurous Springs"/>
+        <card number="1" price="0" name="Shadowblood Ridge"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Barbarian Ring"/>
+        <card number="1" price="0" name="Cabal Pit"/>
+        <card number="1" price="0" name="Arcane Lighthouse"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Lavaclaw Reaches"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Ingot Chewer"/>
+        <card number="1" price="0" name="Viscera Seer"/>
+        <card number="1" price="0" name="Zealous Conscripts"/>
+        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Braid of Fire"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Fate Unraveler"/>
+        <card number="1" price="0" name="Guul Draz Specter"/>
+        <card number="1" price="0" name="Flamerush Rider"/>
+        <card number="1" price="0" name="Furystoke Giant"/>
+        <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
+        <card number="1" price="0" name="Ogre Slumlord"/>
+        <card number="1" price="0" name="Puppeteer Clique"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Expedition Map"/>
+        <card number="1" price="0" name="Krenko, Mob Boss"/>
+        <card number="1" price="0" name="Sadistic Hypnotist"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Merciless Executioner"/>
+        <card number="1" price="0" name="Heartstone"/>
+        <card number="1" price="0" name="Relic of Progenitus"/>
+        <card number="1" price="0" name="Mogg War Marshal"/>
+        <card number="1" price="0" name="Junktroller"/>
+        <card number="1" price="0" name="Attrition"/>
+        <card number="1" price="0" name="Liliana, Heretical Healer"/>
+        <card number="1" price="0" name="Crypt Ghast"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Herald of Leshrac"/>
+        <card number="1" price="0" name="Priest of the Blood Rite"/>
+        <card number="1" price="0" name="Grim Haruspex"/>
+        <card number="1" price="0" name="Spawning Pool"/>
+        <card number="1" price="0" name="Akoum Refuge"/>
+        <card number="1" price="0" name="Rakdos Guildgate"/>
+        <card number="1" price="0" name="Howltooth Hollow"/>
+        <card number="1" price="0" name="Drown in Sorrow"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Chaos Warp"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Tectonic Edge"/>
+        <card number="1" price="0" name="Coalition Relic"/>
+        <card number="1" price="0" name="Black Sun's Zenith"/>
+        <card number="1" price="0" name="Damnation"/>
+        <card number="1" price="0" name="Life's Finale"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
+    </zone>
+</cockatrice_deck>
