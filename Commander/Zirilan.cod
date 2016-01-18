@@ -3,10 +3,8 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Ghost Quarter"/>
-        <card number="39" price="0" name="Mountain"/>
+        <card number="34" price="0" name="Mountain"/>
         <card number="1" price="0" name="Balefire Dragon"/>
-        <card number="1" price="0" name="Bloodshot Cyclops"/>
         <card number="1" price="0" name="Bogardan Hellkite"/>
         <card number="1" price="0" name="Changeling Berserker"/>
         <card number="1" price="0" name="Dragon Mage"/>
@@ -14,7 +12,6 @@
         <card number="1" price="0" name="Emrakul's Hatcher"/>
         <card number="1" price="0" name="Flameblast Dragon"/>
         <card number="1" price="0" name="Furyborn Hellkite"/>
-        <card number="1" price="0" name="Greater Gargadon"/>
         <card number="1" price="0" name="Hellkite Charger"/>
         <card number="1" price="0" name="Hellkite Igniter"/>
         <card number="1" price="0" name="Hellkite Tyrant"/>
@@ -25,8 +22,6 @@
         <card number="1" price="0" name="Kilnmouth Dragon"/>
         <card number="1" price="0" name="Knollspine Dragon"/>
         <card number="1" price="0" name="Moonveil Dragon"/>
-        <card number="1" price="0" name="Rapacious One"/>
-        <card number="1" price="0" name="Ryusei, the Falling Star"/>
         <card number="1" price="0" name="Scourge of Kher Ridges"/>
         <card number="1" price="0" name="Scourge of the Throne"/>
         <card number="1" price="0" name="Siege Dragon"/>
@@ -37,38 +32,45 @@
         <card number="1" price="0" name="Thundermaw Hellkite"/>
         <card number="1" price="0" name="Utvara Hellkite"/>
         <card number="1" price="0" name="Akroma's Memorial"/>
-        <card number="1" price="0" name="Blasphemous Act"/>
         <card number="1" price="0" name="Caged Sun"/>
-        <card number="1" price="0" name="Chaos Warp"/>
         <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Cold Storage"/>
-        <card number="1" price="0" name="Culling Dais"/>
         <card number="1" price="0" name="Darksteel Ingot"/>
-        <card number="1" price="0" name="Everflowing Chalice"/>
-        <card number="1" price="0" name="Extraplanar Lens"/>
         <card number="1" price="0" name="Gilded Lotus"/>
-        <card number="1" price="0" name="Grab the Reins"/>
         <card number="1" price="0" name="Hammer of Purphoros"/>
         <card number="1" price="0" name="Helm of Possession"/>
         <card number="1" price="0" name="Insurrection"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Phyrexian Vault"/>
-        <card number="1" price="0" name="Pyroblast"/>
-        <card number="1" price="0" name="Rack and Ruin"/>
         <card number="1" price="0" name="Sensei's Divining Top"/>
         <card number="1" price="0" name="Shattering Spree"/>
-        <card number="1" price="0" name="Sisay's Ring"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Sundial of the Infinite"/>
         <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Thran Dynamo"/>
-        <card number="1" price="0" name="Ur-Golem's Eye"/>
         <card number="1" price="0" name="Worn Powerstone"/>
+        <card number="1" price="0" name="Tel-Jilad Stylus"/>
+        <card number="1" price="0" name="Moltensteel Dragon"/>
+        <card number="1" price="0" name="Scourge of Valkas"/>
+        <card number="1" price="0" name="Worldgorger Dragon"/>
+        <card number="1" price="0" name="Breath of Fury"/>
+        <card number="1" price="0" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" price="0" name="Miren, the Moaning Well"/>
+        <card number="1" price="0" name="Belbe's Portal"/>
+        <card number="1" price="0" name="Warstorm Surge"/>
+        <card number="1" price="0" name="Thornbite Staff"/>
+        <card number="1" price="0" name="Sword of Feast and Famine"/>
+        <card number="1" price="0" name="Rings of Brighthearth"/>
+        <card number="1" price="0" name="Illusionist's Bracers"/>
+        <card number="1" price="0" name="Conjurer's Closet"/>
+        <card number="1" price="0" name="Minion Reflector"/>
+        <card number="1" price="0" name="Thousand-Year Elixir"/>
+        <card number="1" price="0" name="Dragon Tempest"/>
+        <card number="1" price="0" name="Voyager Staff"/>
+        <card number="1" price="0" name="Treasonous Ogre"/>
+        <card number="1" price="0" name="Flameshadow Conjuring"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Goblin Welder"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Zirilan of the Claw"/>
-        <card number="1" price="0" name="Thousand-Year Elixir"/>
-        <card number="1" price="0" name="Gauntlet of Power"/>
-        <card number="1" price="0" name="Gauntlet of Might"/>
     </zone>
 </cockatrice_deck>
