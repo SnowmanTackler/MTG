@@ -49,15 +49,22 @@
         <card number="1" price="0" name="Soltari Guerrillas"/>
         <card number="1" price="0" name="Stoneforge Mystic"/>
         <card number="1" price="0" name="Student of Warfare"/>
+        <card number="1" price="0" name="Tajic, Blade of the Legion"/>
+        <card number="1" price="0" name="Warren Instigator"/>
         <card number="1" price="0" name="Ajani Steadfast"/>
         <card number="1" price="0" name="Ajani Vengeant"/>
         <card number="1" price="0" name="Boros Charm"/>
+        <card number="1" price="0" name="Boros Signet"/>
+        <card number="1" price="0" name="Coalition Relic"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
         <card number="1" price="0" name="Elspeth, Knight-Errant"/>
         <card number="1" price="0" name="Iroas, God of Victory"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Lightning Helix"/>
         <card number="1" price="0" name="Skullclamp"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Sunforger"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Sword of Body and Mind"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
@@ -71,6 +78,8 @@
         <card number="1" price="0" name="Return to Dust"/>
         <card number="1" price="0" name="Commander Eesha"/>
         <card number="1" price="0" name="Inferno Titan"/>
+        <card number="1" price="0" name="Sun Titan"/>
+        <card number="1" price="0" name="Aurelia's Fury"/>
         <card number="1" price="0" name="Swords to Plowshares"/>
         <card number="1" price="0" name="Nahiri, the Lithomancer"/>
         <card number="1" price="0" name="Sword of Vengeance"/>
@@ -81,20 +90,12 @@
         <card number="1" price="0" name="Great Furnace"/>
         <card number="1" price="0" name="Jor Kadeen, the Prevailer"/>
         <card number="1" price="0" name="Balefire Liege"/>
-        <card number="2" price="0" name="Loxodon Warhammer"/>
-        <card number="1" price="0" name="Austere Command"/>
-        <card number="1" price="0" name="Auriok Edgewright"/>
-        <card number="1" price="0" name="Boros Battleshaper"/>
-        <card number="1" price="0" name="Highspire Mantis"/>
-        <card number="1" price="0" name="Spitemare"/>
-        <card number="1" price="0" name="Two-Headed Cerberus"/>
-        <card number="1" price="0" name="Ajani, Caller of the Pride"/>
-        <card number="1" price="0" name="Nim Deathmantle"/>
-        <card number="1" price="0" name="Barbarian Ring"/>
-        <card number="1" price="0" name="Ordruun Veteran"/>
-        <card number="1" price="0" name="Ajani Goldmane"/>
-        <card number="1" price="0" name="Whispersilk Cloak"/>
-        <card number="1" price="0" name="Nobilis of War"/>
+        <card number="1" price="0" name="Indomitable Archangel"/>
+        <card number="1" price="0" name="Outpost Siege"/>
+        <card number="1" price="0" name="Citadel Siege"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Sunscorch Regent"/>
+        <card number="1" price="0" name="Sword of the Animist"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>
