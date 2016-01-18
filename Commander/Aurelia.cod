@@ -35,8 +35,6 @@
         <card number="1" price="0" name="Boros Swiftblade"/>
         <card number="1" price="0" name="Fabled Hero"/>
         <card number="1" price="0" name="Fencing Ace"/>
-        <card number="1" price="0" name="Figure of Destiny"/>
-        <card number="1" price="0" name="Firemane Avenger"/>
         <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
         <card number="1" price="0" name="Hearthfire Hobgoblin"/>
         <card number="1" price="0" name="Kor Duelist"/>
@@ -48,10 +46,8 @@
         <card number="1" price="0" name="Skyhunter Skirmisher"/>
         <card number="1" price="0" name="Soltari Guerrillas"/>
         <card number="1" price="0" name="Stoneforge Mystic"/>
-        <card number="1" price="0" name="Student of Warfare"/>
         <card number="1" price="0" name="Tajic, Blade of the Legion"/>
         <card number="1" price="0" name="Warren Instigator"/>
-        <card number="1" price="0" name="Ajani Steadfast"/>
         <card number="1" price="0" name="Ajani Vengeant"/>
         <card number="1" price="0" name="Boros Charm"/>
         <card number="1" price="0" name="Boros Signet"/>
@@ -94,8 +90,12 @@
         <card number="1" price="0" name="Outpost Siege"/>
         <card number="1" price="0" name="Citadel Siege"/>
         <card number="1" price="0" name="Loxodon Warhammer"/>
-        <card number="1" price="0" name="Sunscorch Regent"/>
         <card number="1" price="0" name="Sword of the Animist"/>
+        <card number="1" price="0" name="Anya, Merciless Angel"/>
+        <card number="1" price="0" name="Bastion Protector"/>
+        <card number="1" price="0" name="Kalemne, Disciple of Iroas"/>
+        <card number="1" price="0" name="Iroas's Champion"/>
+        <card number="1" price="0" name="Needle Spires"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>
