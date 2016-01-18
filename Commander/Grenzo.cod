@@ -3,19 +3,16 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Brass Herald"/>
         <card number="1" price="0" name="Clone Shell"/>
         <card number="1" price="0" name="Crystal Ball"/>
         <card number="1" price="0" name="Magma Jet"/>
         <card number="1" price="0" name="Spinerock Knoll"/>
-        <card number="1" price="0" name="Surging Flame"/>
         <card number="1" price="0" name="Tel-Jilad Stylus"/>
         <card number="1" price="0" name="Temple of Malice"/>
         <card number="1" price="0" name="Triskelavus"/>
         <card number="1" price="0" name="Triskelion"/>
         <card number="1" price="0" name="Ignition Team"/>
         <card number="1" price="0" name="Pus Kami"/>
-        <card number="1" price="0" name="Abyssal Horror"/>
         <card number="1" price="0" name="Ascendant Evincar"/>
         <card number="1" price="0" name="Archetype of Finality"/>
         <card number="1" price="0" name="Dakmor Lancer"/>
@@ -54,14 +51,10 @@
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Braid of Fire"/>
-        <card number="1" price="0" name="Bloodline Keeper"/>
         <card number="1" price="0" name="Fate Unraveler"/>
-        <card number="1" price="0" name="Guul Draz Specter"/>
         <card number="1" price="0" name="Flamerush Rider"/>
         <card number="1" price="0" name="Furystoke Giant"/>
         <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
-        <card number="1" price="0" name="Ogre Slumlord"/>
-        <card number="1" price="0" name="Puppeteer Clique"/>
         <card number="1" price="0" name="Cabal Coffers"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" price="0" name="Expedition Map"/>
@@ -71,7 +64,6 @@
         <card number="1" price="0" name="Merciless Executioner"/>
         <card number="1" price="0" name="Heartstone"/>
         <card number="1" price="0" name="Relic of Progenitus"/>
-        <card number="1" price="0" name="Mogg War Marshal"/>
         <card number="1" price="0" name="Junktroller"/>
         <card number="1" price="0" name="Attrition"/>
         <card number="1" price="0" name="Liliana, Heretical Healer"/>
@@ -79,10 +71,8 @@
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Herald of Leshrac"/>
         <card number="1" price="0" name="Priest of the Blood Rite"/>
-        <card number="1" price="0" name="Grim Haruspex"/>
         <card number="1" price="0" name="Spawning Pool"/>
         <card number="1" price="0" name="Akoum Refuge"/>
-        <card number="1" price="0" name="Rakdos Guildgate"/>
         <card number="1" price="0" name="Howltooth Hollow"/>
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Shriekmaw"/>
@@ -95,6 +85,16 @@
         <card number="1" price="0" name="Urborg Syphon-Mage"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Vengeful Vampire"/>
+        <card number="1" price="0" name="Black Market"/>
+        <card number="1" price="0" name="Withered Wretch"/>
+        <card number="1" price="0" name="Shimian Specter"/>
+        <card number="1" price="0" name="Outrage Shaman"/>
+        <card number="1" price="0" name="Pentavus"/>
+        <card number="1" price="0" name="Phyrexian Delver"/>
+        <card number="1" price="0" name="Canal Dredger"/>
+        <card number="1" price="0" name="Balthor the Defiled"/>
+        <card number="1" price="0" name="Magus of the Moon"/>
+        <card number="1" price="0" name="Rakdos Guildgate"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
