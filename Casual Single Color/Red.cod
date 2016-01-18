@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="20" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Firedrinker Satyr"/>
+        <card number="4" price="0" name="Keldon Marauders"/>
+        <card number="2" price="0" name="Hellspark Elemental"/>
+        <card number="2" price="0" name="Spark Elemental"/>
+        <card number="4" price="0" name="Goblin Guide"/>
+        <card number="2" price="0" name="Fireblast"/>
+        <card number="2" price="0" name="Incinerate"/>
+        <card number="4" price="0" name="Chain Lightning"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="4" price="0" name="Rift Bolt"/>
+        <card number="2" price="0" name="Eidolon of the Great Revel"/>
+        <card number="4" price="0" name="Searing Blaze"/>
+        <card number="2" price="0" name="Lava Spike"/>
+        <card number="2" price="0" name="Jackal Pup"/>
+    </zone>
+</cockatrice_deck>
