@@ -45,8 +45,8 @@
         <card number="1" price="0" name="Opal Palace"/>
         <card number="1" price="0" name="Command Tower"/>
         <card number="1" price="0" name="Lavaclaw Reaches"/>
-        <card number="3" price="0" name="Mountain"/>
-        <card number="8" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="7" price="0" name="Swamp"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Ingot Chewer"/>
         <card number="1" price="0" name="Viscera Seer"/>
@@ -84,15 +84,17 @@
         <card number="1" price="0" name="Akoum Refuge"/>
         <card number="1" price="0" name="Rakdos Guildgate"/>
         <card number="1" price="0" name="Howltooth Hollow"/>
-        <card number="1" price="0" name="Drown in Sorrow"/>
-        <card number="1" price="0" name="Darksteel Ingot"/>
-        <card number="1" price="0" name="Chaos Warp"/>
-        <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Tectonic Edge"/>
-        <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Black Sun's Zenith"/>
-        <card number="1" price="0" name="Damnation"/>
-        <card number="1" price="0" name="Life's Finale"/>
+        <card number="1" price="0" name="Nekrataal"/>
+        <card number="1" price="0" name="Shriekmaw"/>
+        <card number="1" price="0" name="Gray Merchant of Asphodel"/>
+        <card number="1" price="0" name="Chromatic Lantern"/>
+        <card number="1" price="0" name="Anger"/>
+        <card number="1" price="0" name="Archetype of Aggression"/>
+        <card number="1" price="0" name="Siege-Gang Commander"/>
+        <card number="1" price="0" name="Hex Parasite"/>
+        <card number="1" price="0" name="Urborg Syphon-Mage"/>
+        <card number="1" price="0" name="Burnished Hart"/>
+        <card number="1" price="0" name="Vengeful Vampire"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
