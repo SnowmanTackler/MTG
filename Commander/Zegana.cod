@@ -16,7 +16,6 @@
         <card number="1" price="0" name="Force of Will"/>
         <card number="1" price="0" name="Misdirection"/>
         <card number="1" price="0" name="Rite of Replication"/>
-        <card number="1" price="0" name="Stifle"/>
         <card number="1" price="0" name="Wipe Away"/>
         <card number="1" price="0" name="Echoing Truth"/>
         <card number="1" price="0" name="Cryptic Command"/>
@@ -33,8 +32,6 @@
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
         <card number="1" price="0" name="Search for Tomorrow"/>
         <card number="1" price="0" name="Chasm Skulker"/>
-        <card number="1" price="0" name="Plaxcaster Frogling"/>
-        <card number="1" price="0" name="Polukranos, World Eater"/>
         <card number="1" price="0" name="Hornet Queen"/>
         <card number="1" price="0" name="Hydra Broodmaster"/>
         <card number="1" price="0" name="Kazandu Tuskcaller"/>
@@ -89,5 +86,8 @@
         <card number="1" price="0" name="Birthing Pod"/>
         <card number="1" price="0" name="Blighted Woodland"/>
         <card number="1" price="0" name="Perilous Forays"/>
+        <card number="1" price="0" name="Plasm Capture"/>
+        <card number="1" price="0" name="Voidslime"/>
+        <card number="1" price="0" name="Plaxcaster Frogling"/>
     </zone>
 </cockatrice_deck>
