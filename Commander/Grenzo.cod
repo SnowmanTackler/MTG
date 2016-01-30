@@ -93,8 +93,8 @@
         <card number="1" price="0" name="Phyrexian Delver"/>
         <card number="1" price="0" name="Canal Dredger"/>
         <card number="1" price="0" name="Balthor the Defiled"/>
-        <card number="1" price="0" name="Magus of the Moon"/>
         <card number="1" price="0" name="Rakdos Guildgate"/>
+        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
