@@ -45,7 +45,6 @@
         <card number="1" price="0" name="Horizon Chimera"/>
         <card number="1" price="0" name="Momir Vig, Simic Visionary"/>
         <card number="1" price="0" name="Oracle of Mul Daya"/>
-        <card number="1" price="0" name="Prophet of Kruphix"/>
         <card number="1" price="0" name="Seedborn Muse"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
         <card number="1" price="0" name="Master of the Wild Hunt"/>
@@ -89,5 +88,6 @@
         <card number="1" price="0" name="Plasm Capture"/>
         <card number="1" price="0" name="Voidslime"/>
         <card number="1" price="0" name="Plaxcaster Frogling"/>
+        <card number="1" price="0" name="Edric, Spymaster of Trest"/>
     </zone>
 </cockatrice_deck>
