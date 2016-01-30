@@ -63,7 +63,6 @@
         <card number="1" price="0" name="Fleshbag Marauder"/>
         <card number="1" price="0" name="Merciless Executioner"/>
         <card number="1" price="0" name="Heartstone"/>
-        <card number="1" price="0" name="Relic of Progenitus"/>
         <card number="1" price="0" name="Junktroller"/>
         <card number="1" price="0" name="Attrition"/>
         <card number="1" price="0" name="Liliana, Heretical Healer"/>
@@ -87,14 +86,15 @@
         <card number="1" price="0" name="Vengeful Vampire"/>
         <card number="1" price="0" name="Black Market"/>
         <card number="1" price="0" name="Withered Wretch"/>
-        <card number="1" price="0" name="Shimian Specter"/>
-        <card number="1" price="0" name="Outrage Shaman"/>
-        <card number="1" price="0" name="Pentavus"/>
         <card number="1" price="0" name="Phyrexian Delver"/>
         <card number="1" price="0" name="Canal Dredger"/>
         <card number="1" price="0" name="Balthor the Defiled"/>
         <card number="1" price="0" name="Rakdos Guildgate"/>
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" price="0" name="Grim Haruspex"/>
+        <card number="1" price="0" name="Ogre Slumlord"/>
+        <card number="1" price="0" name="Brass Herald"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
