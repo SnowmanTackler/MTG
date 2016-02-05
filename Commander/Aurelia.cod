@@ -31,7 +31,6 @@
         <card number="1" price="0" name="Wind-Scarred Crag"/>
         <card number="1" price="0" name="Hammerheim"/>
         <card number="1" price="0" name="Basandra, Battle Seraph"/>
-        <card number="1" price="0" name="Boros Reckoner"/>
         <card number="1" price="0" name="Boros Swiftblade"/>
         <card number="1" price="0" name="Fabled Hero"/>
         <card number="1" price="0" name="Fencing Ace"/>
@@ -96,6 +95,7 @@
         <card number="1" price="0" name="Kalemne, Disciple of Iroas"/>
         <card number="1" price="0" name="Iroas's Champion"/>
         <card number="1" price="0" name="Needle Spires"/>
+        <card number="1" price="0" name="Kazuul's Toll Collector"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>

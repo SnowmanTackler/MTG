@@ -42,7 +42,6 @@
         <card number="1" price="0" name="Jarad, Golgari Lich Lord"/>
         <card number="1" price="0" name="Mazirek, Kraul Death Priest"/>
         <card number="1" price="0" name="Meren of Clan Nel Toth"/>
-        <card number="1" price="0" name="Nath of the Gilt-Leaf"/>
         <card number="1" price="0" name="Savra, Queen of the Golgari"/>
         <card number="1" price="0" name="Anowon, the Ruin Sage"/>
         <card number="1" price="0" name="Ghoulcaller Gisa"/>
@@ -85,8 +84,10 @@
         <card number="5" price="0" name="Mountain"/>
         <card number="5" price="0" name="Swamp"/>
         <card number="1" price="0" name="Artifact Mutation"/>
-        <card number="1" price="0" name="Terminate"/>
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
         <card number="1" price="0" name="Hangarback Walker"/>
+        <card number="1" price="0" name="Puppeteer Clique"/>
+        <card number="1" price="0" name="Thragtusk"/>
+        <card number="1" price="0" name="Fires of Yavimaya"/>
     </zone>
 </cockatrice_deck>
