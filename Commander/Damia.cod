@@ -37,7 +37,6 @@
         <card number="1" price="0" name="Oracle of Mul Daya"/>
         <card number="1" price="0" name="Grave Titan"/>
         <card number="1" price="0" name="Yavimaya Elder"/>
-        <card number="1" price="0" name="Prophet of Kruphix"/>
         <card number="1" price="0" name="Kederekt Leviathan"/>
         <card number="1" price="0" name="Body Double"/>
         <card number="1" price="0" name="Clever Impersonator"/>
@@ -46,15 +45,12 @@
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Keiga, the Tide Star"/>
         <card number="1" price="0" name="Oona, Queen of the Fae"/>
-        <card number="1" price="0" name="Vorinclex, Voice of Hunger"/>
         <card number="1" price="0" name="Sheoldred, Whispering One"/>
-        <card number="1" price="0" name="Jin-Gitaxias, Core Augur"/>
         <card number="1" price="0" name="Myojin of Night's Reach"/>
         <card number="1" price="0" name="Geth, Lord of the Vault"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Pernicious Deed"/>
         <card number="1" price="0" name="Courser of Kruphix"/>
-        <card number="1" price="0" name="Simic Charm"/>
         <card number="1" price="0" name="Sultai Charm"/>
         <card number="1" price="0" name="Golgari Charm"/>
         <card number="1" price="0" name="Vampiric Tutor"/>
@@ -63,10 +59,8 @@
         <card number="1" price="0" name="Fact or Fiction"/>
         <card number="1" price="0" name="Mystical Tutor"/>
         <card number="1" price="0" name="Fated Return"/>
-        <card number="1" price="0" name="Dimir Charm"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
         <card number="1" price="0" name="Krosan Grip"/>
-        <card number="1" price="0" name="Time Stretch"/>
         <card number="1" price="0" name="Ranger's Path"/>
         <card number="1" price="0" name="Primal Command"/>
         <card number="1" price="0" name="Tooth and Nail"/>
@@ -84,6 +78,12 @@
         <card number="1" price="0" name="Explosive Vegetation"/>
         <card number="1" price="0" name="Profane Command"/>
         <card number="1" price="0" name="Kodama's Reach"/>
+        <card number="1" price="0" name="Myojin of Life's Web"/>
+        <card number="1" price="0" name="Myojin of Seeing Winds"/>
+        <card number="1" price="0" name="Bane of Progress"/>
+        <card number="1" price="0" name="Akroma's Memorial"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Darksteel Colossus"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Reclamation Sage"/>

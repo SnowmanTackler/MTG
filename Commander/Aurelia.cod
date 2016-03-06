@@ -71,7 +71,6 @@
         <card number="1" price="0" name="Steelshaper's Gift"/>
         <card number="1" price="0" name="Stonehewer Giant"/>
         <card number="1" price="0" name="Return to Dust"/>
-        <card number="1" price="0" name="Commander Eesha"/>
         <card number="1" price="0" name="Inferno Titan"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Aurelia's Fury"/>
@@ -96,11 +95,9 @@
         <card number="1" price="0" name="Iroas's Champion"/>
         <card number="1" price="0" name="Needle Spires"/>
         <card number="1" price="0" name="Kazuul's Toll Collector"/>
+        <card number="1" price="0" name="Relic Seeker"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>
-        <card number="1" price="0" name="Ajani, Caller of the Pride"/>
-        <card number="1" price="0" name="Mask of Memory"/>
-        <card number="1" price="0" name="Griffin Guide"/>
     </zone>
 </cockatrice_deck>
