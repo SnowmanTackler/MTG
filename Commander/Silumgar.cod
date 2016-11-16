@@ -16,32 +16,21 @@
         <card number="1" price="0" name="Ruthless Deathfang"/>
         <card number="1" price="0" name="Steel Hellkite"/>
         <card number="1" price="0" name="Cairn Wanderer"/>
-        <card number="1" price="0" name="Amoeboid Changeling"/>
         <card number="1" price="0" name="Ghostly Changeling"/>
         <card number="1" price="0" name="Moonglove Changeling"/>
-        <card number="1" price="0" name="Mothdust Changeling"/>
         <card number="1" price="0" name="Shapesharer"/>
         <card number="1" price="0" name="Skeletal Changeling"/>
-        <card number="1" price="0" name="Turtleshell Changeling"/>
-        <card number="1" price="0" name="Wings of Velis Vel"/>
         <card number="1" price="0" name="Mistform Ultimus"/>
         <card number="1" price="0" name="Coat of Arms"/>
-        <card number="1" price="0" name="Cemetery Puca"/>
         <card number="1" price="0" name="Hex"/>
-        <card number="1" price="0" name="Clone"/>
         <card number="1" price="0" name="Cryptoplasm"/>
-        <card number="1" price="0" name="Dimir Doppelganger"/>
-        <card number="1" price="0" name="Duplicant"/>
         <card number="1" price="0" name="Evil Twin"/>
         <card number="1" price="0" name="Gigantoplasm"/>
-        <card number="1" price="0" name="Bribery"/>
         <card number="1" price="0" name="Blatant Thievery"/>
         <card number="1" price="0" name="Cryptic Command"/>
         <card number="1" price="0" name="Lazav, Dimir Mastermind"/>
         <card number="1" price="0" name="Phyrexian Metamorph"/>
-        <card number="1" price="0" name="Proteus Machine"/>
         <card number="1" price="0" name="Quicksilver Gargantuan"/>
-        <card number="1" price="0" name="Renegade Doppelganger"/>
         <card number="1" price="0" name="Stunt Double"/>
         <card number="1" price="0" name="Vesuvan Shapeshifter"/>
         <card number="1" price="0" name="Akroma's Memorial"/>
@@ -52,32 +41,42 @@
         <card number="1" price="0" name="Kokusho, the Evening Star"/>
         <card number="1" price="0" name="Keiga, the Tide Star"/>
         <card number="1" price="0" name="Body Double"/>
-        <card number="1" price="0" name="Beacon of Unrest"/>
         <card number="1" price="0" name="Profane Command"/>
         <card number="1" price="0" name="Skithiryx, the Blight Dragon"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Clever Impersonator"/>
         <card number="1" price="0" name="Rite of Replication"/>
         <card number="1" price="0" name="Fact or Fiction"/>
-        <card number="1" price="0" name="Whip of Erebos"/>
         <card number="1" price="0" name="Sudden Death"/>
-        <card number="1" price="0" name="Foul-Tongue Invocation"/>
         <card number="1" price="0" name="Dismember"/>
         <card number="1" price="0" name="Acid-Spewer Dragon"/>
         <card number="1" price="0" name="Belltoll Dragon"/>
-        <card number="1" price="0" name="Night of Souls' Betrayal"/>
         <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Mystical Tutor"/>
-        <card number="1" price="0" name="Vampiric Tutor"/>
-        <card number="1" price="0" name="Demonic Tutor"/>
-        <card number="1" price="0" name="Swiftfoot Boots"/>
-        <card number="1" price="0" name="Bident of Thassa"/>
-        <card number="1" price="0" name="Snapcaster Mage"/>
         <card number="1" price="0" name="Treachery"/>
         <card number="1" price="0" name="Stolen Identity"/>
-        <card number="1" price="0" name="Dark Confidant"/>
-        <card number="1" price="0" name="Graveborn Muse"/>
         <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Coalition Relic"/>
+        <card number="1" price="0" name="Darksteel Ingot"/>
+        <card number="1" price="0" name="Gilded Lotus"/>
+        <card number="1" price="0" name="Mirror Gallery"/>
+        <card number="1" price="0" name="Clone"/>
+        <card number="1" price="0" name="Mindlock Orb"/>
+        <card number="1" price="0" name="Ob Nixilis, Unshackled"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Dimir Guildgate"/>
+        <card number="1" price="0" name="Underground River"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
+        <card number="1" price="0" name="Volrath's Stronghold"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Halimar Depths"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="13" price="0" name="Swamp"/>
+        <card number="14" price="0" name="Island"/>
+        <card number="1" price="0" name="Mindscour Dragon"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Silumgar, the Drifting Death"/>
