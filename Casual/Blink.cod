@@ -11,13 +11,13 @@
         <card number="4" price="0" name="Liberate"/>
         <card number="2" price="0" name="Krosan Colossus"/>
         <card number="2" price="0" name="Akroma, Angel of Fury"/>
-        <card number="2" price="0" name="Rockshard Elemental"/>
         <card number="2" price="0" name="Exalted Angel"/>
         <card number="2" price="0" name="Quicksilver Dragon"/>
         <card number="16" price="0" name="Plains"/>
         <card number="8" price="0" name="Island"/>
-        <card number="2" price="0" name="Seal of Cleansing"/>
+        <card number="1" price="0" name="Seal of Cleansing"/>
         <card number="2" price="0" name="Sagu Mauler"/>
         <card number="2" price="0" name="Nearheath Pilgrim"/>
+        <card number="3" price="0" name="Obscuring AEther"/>
     </zone>
 </cockatrice_deck>

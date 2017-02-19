@@ -7,13 +7,11 @@
     </zone>
     <zone name="main">
         <card number="1" price="0" name="Cabal Pit"/>
-        <card number="1" price="0" name="Creeping Renaissance"/>
         <card number="1" price="0" name="Exploration"/>
         <card number="1" price="0" name="Oracle of Mul Daya"/>
         <card number="1" price="0" name="Courser of Kruphix"/>
         <card number="1" price="0" name="Chord of Calling"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Reap and Sow"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" price="0" name="Cabal Coffers"/>
@@ -80,7 +78,6 @@
         <card number="1" price="0" name="It That Betrays"/>
         <card number="1" price="0" name="Akroma's Memorial"/>
         <card number="1" price="0" name="Genesis Wave"/>
-        <card number="1" price="0" name="Smallpox"/>
         <card number="1" price="0" name="Ulvenwald Hydra"/>
         <card number="1" price="0" name="Dark Depths"/>
         <card number="1" price="0" name="Thespian's Stage"/>
@@ -91,5 +88,8 @@
         <card number="1" price="0" name="Darksteel Colossus"/>
         <card number="1" price="0" name="Animist's Awakening"/>
         <card number="1" price="0" name="Greenwarden of Murasa"/>
+        <card number="1" price="0" name="Realms Uncharted"/>
+        <card number="1" price="0" name="Splendid Reclamation"/>
+        <card number="1" price="0" name="Emrakul, the Promised End"/>
     </zone>
 </cockatrice_deck>

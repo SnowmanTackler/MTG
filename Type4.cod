@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Voidslime"/>
+        <card number="1" price="0" name="Trickbind"/>
+        <card number="1" price="0" name="Stifle"/>
+        <card number="1" price="0" name="Prophet of Kruphix"/>
+        <card number="1" price="0" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" price="0" name="Myojin of Cleansing Fire"/>
+        <card number="1" price="0" name="Glarecaster"/>
+        <card number="1" price="0" name="Darksteel Colossus"/>
+        <card number="1" price="0" name="Platinum Angel"/>
+        <card number="1" price="0" name="Platinum Emperion"/>
+        <card number="1" price="0" name="Inkwell Leviathan"/>
+        <card number="1" price="0" name="Vendilion Clique"/>
+        <card number="1" price="0" name="Archangel Avacyn"/>
+        <card number="1" price="0" name="Athreos, God of Passage"/>
+        <card number="1" price="0" name="Ephara, God of the Polis"/>
+        <card number="1" price="0" name="Erebos, God of the Dead"/>
+        <card number="1" price="0" name="Iroas, God of Victory"/>
+        <card number="1" price="0" name="Mogis, God of Slaughter"/>
+        <card number="1" price="0" name="Pharika, God of Affliction"/>
+        <card number="1" price="0" name="Xenagos, God of Revels"/>
+        <card number="1" price="0" name="Thassa, God of the Sea"/>
+        <card number="1" price="0" name="It That Betrays"/>
+        <card number="1" price="0" name="Desolation Twin"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="1" price="0" name="Force of Will"/>
+        <card number="1" price="0" name="Misdirection"/>
+        <card number="1" price="0" name="Urza's Rage"/>
+        <card number="1" price="0" name="Void Winnower"/>
+        <card number="1" price="0" name="Eldrazi Conscription"/>
+        <card number="1" price="0" name="Endbringer"/>
+        <card number="1" price="0" name="Vedalken Orrery"/>
+        <card number="1" price="0" name="Barren Glory"/>
+        <card number="1" price="0" name="Beacon of Immortality"/>
+        <card number="1" price="0" name="Prahv, Spires of Order"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Crush of Wurms"/>
+        <card number="1" price="0" name="Bogardan Hellkite"/>
+        <card number="1" price="0" name="Angel of the Dire Hour"/>
+        <card number="1" price="0" name="Cloudthresher"/>
+        <card number="1" price="0" name="Draining Whelk"/>
+        <card number="1" price="0" name="Epic Proportions"/>
+        <card number="1" price="0" name="Creeping Renaissance"/>
+        <card number="1" price="0" name="Dictate of Erebos"/>
+        <card number="1" price="0" name="Dralnu, Lich Lord"/>
+        <card number="1" price="0" name="Fervent Denial"/>
+        <card number="1" price="0" name="Simic Sky Swallower"/>
+        <card number="1" price="0" name="Hypersonic Dragon"/>
+        <card number="1" price="0" name="Increasing Devotion"/>
+        <card number="1" price="0" name="Muck Drubb"/>
+        <card number="1" price="0" name="Surrak Dragonclaw"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Narset, Enlightened Master"/>
+        <card number="1" price="0" name="Unburial Rites"/>
+        <card number="1" price="0" name="Divine Reckoning"/>
+        <card number="1" price="0" name="Balance"/>
+        <card number="1" price="0" name="Wheel of Fortune"/>
+        <card number="1" price="0" name="Leyline of Anticipation"/>
+        <card number="1" price="0" name="Mystic Snake"/>
+        <card number="1" price="0" name="Notion Thief"/>
+        <card number="1" price="0" name="Sever the Bloodline"/>
+        <card number="1" price="0" name="Venser, Shaper Savant"/>
+        <card number="1" price="0" name="Remand"/>
+        <card number="1" price="0" name="Yeva, Nature's Herald"/>
+        <card number="1" price="0" name="Progenitus"/>
+        <card number="1" price="0" name="Dualcaster Mage"/>
+        <card number="1" price="0" name="Necromancy"/>
+        <card number="1" price="0" name="Man-o'-War"/>
+        <card number="1" price="0" name="Eldrazi Monument"/>
+        <card number="1" price="0" name="Akroma, Angel of Fury"/>
+        <card number="1" price="0" name="Akroma's Memorial"/>
+        <card number="1" price="0" name="Akroma, Angel of Wrath"/>
+        <card number="1" price="0" name="Pernicious Deed"/>
+        <card number="1" price="0" name="Hex"/>
+        <card number="1" price="0" name="Oblivion Stone"/>
+        <card number="1" price="0" name="Gleemax"/>
+        <card number="1" price="0" name="Worldspine Wurm"/>
+        <card number="1" price="0" name="Curse of the Cabal"/>
+        <card number="1" price="0" name="Dead Drop"/>
+        <card number="1" price="0" name="Dread Cacodemon"/>
+        <card number="1" price="0" name="Primal Surge"/>
+        <card number="1" price="0" name="Soulscour"/>
+        <card number="1" price="0" name="Blasphemous Act"/>
+        <card number="1" price="0" name="Blazing Archon"/>
+        <card number="1" price="0" name="Blessed Wind"/>
+        <card number="1" price="0" name="Breaching Leviathan"/>
+        <card number="1" price="0" name="Bringer of the Blue Dawn"/>
+        <card number="1" price="0" name="Bringer of the Green Dawn"/>
+        <card number="1" price="0" name="Decree of Savagery"/>
+        <card number="1" price="0" name="Furnace Dragon"/>
+        <card number="1" price="0" name="In Garruk's Wake"/>
+        <card number="1" price="0" name="Heroes Remembered"/>
+        <card number="1" price="0" name="Iona, Shield of Emeria"/>
+        <card number="1" price="0" name="Kuro, Pitlord"/>
+        <card number="1" price="0" name="Plague Wind"/>
+        <card number="1" price="0" name="Rise of the Dark Realms"/>
+        <card number="1" price="0" name="Reya Dawnbringer"/>
+        <card number="1" price="0" name="Searing Wind"/>
+        <card number="1" price="0" name="Vitalizing Wind"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Encroaching Wastes"/>
+        <card number="1" price="0" name="Dust Bowl"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Brilliant Ultimatum"/>
+        <card number="1" price="0" name="Cruel Ultimatum"/>
+        <card number="1" price="0" name="Titanic Ultimatum"/>
+        <card number="1" price="0" name="Violent Ultimatum"/>
+        <card number="1" price="0" name="Mayael the Anima"/>
+        <card number="1" price="0" name="Fact or Fiction"/>
+        <card number="1" price="0" name="Sphinx of Uthuun"/>
+        <card number="1" price="0" name="Alpha Brawl"/>
+        <card number="1" price="0" name="Angel of Salvation"/>
+        <card number="1" price="0" name="Archetype of Endurance"/>
+        <card number="1" price="0" name="Army of the Damned"/>
+        <card number="1" price="0" name="Ashen Rider"/>
+        <card number="1" price="0" name="Avatar of Hope"/>
+        <card number="1" price="0" name="Avatar of Me"/>
+        <card number="1" price="0" name="Avatar of Slaughter"/>
+        <card number="1" price="0" name="Avatar of Woe"/>
+        <card number="1" price="0" name="Baleful Force"/>
+        <card number="1" price="0" name="Bearer of the Heavens"/>
+        <card number="1" price="0" name="Bloodfire Colossus"/>
+        <card number="1" price="0" name="Celestial Force"/>
+        <card number="1" price="0" name="Cognivore"/>
+        <card number="1" price="0" name="Colossus of Akros"/>
+        <card number="1" price="0" name="Craterhoof Behemoth"/>
+        <card number="1" price="0" name="Death Mutation"/>
+        <card number="1" price="0" name="Artifact Mutation"/>
+        <card number="1" price="0" name="Aura Mutation"/>
+        <card number="1" price="0" name="Decree of Pain"/>
+        <card number="1" price="0" name="Decree of Silence"/>
+        <card number="1" price="0" name="Din of the Fireherd"/>
+        <card number="1" price="0" name="Empyrial Archangel"/>
+        <card number="1" price="0" name="Godsire"/>
+        <card number="1" price="0" name="Griselbrand"/>
+        <card number="1" price="0" name="Karador, Ghost Chieftain"/>
+        <card number="1" price="0" name="Living Hive"/>
+        <card number="1" price="0" name="Lorthos, the Tidemaker"/>
+        <card number="1" price="0" name="Maelstrom Wanderer"/>
+        <card number="1" price="0" name="Mindleech Mass"/>
+        <card number="1" price="0" name="Nicol Bolas"/>
+        <card number="1" price="0" name="Praetor's Counsel"/>
+        <card number="1" price="0" name="Prince of Thralls"/>
+        <card number="1" price="0" name="Reiver Demon"/>
+        <card number="1" price="0" name="Razia, Boros Archangel"/>
+        <card number="1" price="0" name="Scion of Darkness"/>
+        <card number="1" price="0" name="Scrambleverse"/>
+        <card number="1" price="0" name="Sisters of Stone Death"/>
+        <card number="1" price="0" name="Sphinx of the Steel Wind"/>
+        <card number="1" price="0" name="Sphinx Sovereign"/>
+        <card number="1" price="0" name="Symbiotic Wurm"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Tidespout Tyrant"/>
+        <card number="1" price="0" name="Woodfall Primus"/>
+        <card number="1" price="0" name="Worst Fears"/>
+        <card number="1" price="0" name="Yavimaya's Embrace"/>
+        <card number="1" price="0" name="Xanthic Statue"/>
+        <card number="1" price="0" name="Elbrus, the Binding Blade"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Spine of Ish Sah"/>
+        <card number="1" price="0" name="Argentum Armor"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Gate to the AEther"/>
+        <card number="1" price="0" name="Mindslaver"/>
+        <card number="1" price="0" name="Soul Conduit"/>
+        <card number="1" price="0" name="Staff of Nin"/>
+        <card number="1" price="0" name="Tatsumasa, the Dragon's Fang"/>
+        <card number="1" price="0" name="Batterskull"/>
+        <card number="1" price="0" name="Mirari"/>
+        <card number="1" price="0" name="Pariah's Shield"/>
+        <card number="1" price="0" name="Flash"/>
+        <card number="1" price="0" name="Scourglass"/>
+        <card number="1" price="0" name="Scytheclaw"/>
+        <card number="1" price="0" name="Aligned Hedron Network"/>
+        <card number="1" price="0" name="Bident of Thassa"/>
+        <card number="1" price="0" name="Grappling Hook"/>
+        <card number="1" price="0" name="Hedron Matrix"/>
+        <card number="1" price="0" name="Cast Through Time"/>
+        <card number="1" price="0" name="Debtors' Knell"/>
+        <card number="1" price="0" name="Spellskite"/>
+        <card number="1" price="0" name="Grave Betrayal"/>
+        <card number="1" price="0" name="Hedonist's Trove"/>
+        <card number="1" price="0" name="Meishin, the Mind Cage"/>
+        <card number="1" price="0" name="Mythic Proportions"/>
+        <card number="1" price="0" name="Spirit Away"/>
+        <card number="1" price="0" name="Celestial Mantle"/>
+        <card number="1" price="0" name="Collective Blessing"/>
+        <card number="1" price="0" name="Confiscate"/>
+        <card number="1" price="0" name="Deadbridge Chant"/>
+        <card number="1" price="0" name="Death's Presence"/>
+        <card number="1" price="0" name="Feed the Pack"/>
+        <card number="1" price="0" name="Indrik Umbra"/>
+        <card number="1" price="0" name="Killer Instinct"/>
+        <card number="1" price="0" name="Lurking Predators"/>
+        <card number="1" price="0" name="Mind Over Matter"/>
+        <card number="1" price="0" name="Rage Reflection"/>
+        <card number="1" price="0" name="True Conviction"/>
+        <card number="1" price="0" name="Commandeer"/>
+        <card number="1" price="0" name="Austere Command"/>
+        <card number="1" price="0" name="Cryptic Command"/>
+        <card number="1" price="0" name="Dromoka's Command"/>
+        <card number="1" price="0" name="Kolaghan's Command"/>
+        <card number="1" price="0" name="Ojutai's Command"/>
+        <card number="1" price="0" name="Silumgar's Command"/>
+        <card number="1" price="0" name="Blatant Thievery"/>
+        <card number="1" price="0" name="Disaster Radius"/>
+        <card number="1" price="0" name="Duneblast"/>
+        <card number="1" price="0" name="Fated Infatuation"/>
+        <card number="1" price="0" name="Fated Retribution"/>
+        <card number="1" price="0" name="Fated Return"/>
+        <card number="1" price="0" name="Ghastly Conscription"/>
+        <card number="1" price="0" name="Hour of Reckoning"/>
+        <card number="1" price="0" name="Hunting Pack"/>
+        <card number="1" price="0" name="Necromantic Selection"/>
+        <card number="1" price="0" name="Kokusho, the Evening Star"/>
+        <card number="1" price="0" name="Keiga, the Tide Star"/>
+        <card number="1" price="0" name="Nissa's Revelation"/>
+        <card number="1" price="0" name="Phthisis"/>
+        <card number="1" price="0" name="Soulquake"/>
+        <card number="1" price="0" name="Sorin's Vengeance"/>
+        <card number="1" price="0" name="AEthersnatch"/>
+        <card number="1" price="0" name="Counterlash"/>
+        <card number="1" price="0" name="Cultural Exchange"/>
+        <card number="1" price="0" name="Descend upon the Sinful"/>
+        <card number="1" price="0" name="Feudkiller's Verdict"/>
+        <card number="1" price="0" name="Flying Crane Technique"/>
+        <card number="1" price="0" name="Grip of Desolation"/>
+        <card number="1" price="0" name="Betrayal of Flesh"/>
+        <card number="1" price="0" name="Chronostutter"/>
+        <card number="1" price="0" name="Cobra Trap"/>
+        <card number="1" price="0" name="Spinal Embrace"/>
+        <card number="1" price="0" name="Stone Idol Trap"/>
+        <card number="1" price="0" name="Summoning Trap"/>
+        <card number="1" price="0" name="Time Stop"/>
+        <card number="1" price="0" name="Waterwhirl"/>
+        <card number="1" price="0" name="AEtherspouts"/>
+        <card number="1" price="0" name="Vitu-Ghazi, the City-Tree"/>
+        <card number="1" price="0" name="Arena"/>
+        <card number="1" price="0" name="Blighted Cataract"/>
+        <card number="1" price="0" name="Celestial Colonnade"/>
+        <card number="1" price="0" name="Gavony Township"/>
+        <card number="1" price="0" name="Gargoyle Castle"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Mystifying Maze"/>
+        <card number="1" price="0" name="Orzhova, the Church of Deals"/>
+        <card number="1" price="0" name="Safe Haven"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Etherium-Horn Sorcerer"/>
+        <card number="1" price="0" name="Madrush Cyclops"/>
+        <card number="1" price="0" name="Maelstrom Nexus"/>
+        <card number="1" price="0" name="Root Elemental"/>
+        <card number="1" price="0" name="Voidmage Apprentice"/>
+        <card number="1" price="0" name="Resounding Thunder"/>
+        <card number="1" price="0" name="Utter End"/>
+        <card number="1" price="0" name="Return to Dust"/>
+        <card number="1" price="0" name="Wear // Tear"/>
+        <card number="1" price="0" name="Far // Away"/>
+        <card number="1" price="0" name="Whispersilk Cloak"/>
+        <card number="1" price="0" name="Moonsilver Spear"/>
+        <card number="1" price="0" name="Sword of Kaldra"/>
+        <card number="1" price="0" name="Sword of the Paruns"/>
+        <card number="1" price="0" name="Behemoth Sledge"/>
+        <card number="1" price="0" name="Enigma Sphinx"/>
+        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" price="0" name="Font of Mythos"/>
+        <card number="1" price="0" name="Solitary Confinement"/>
+    </zone>
+</cockatrice_deck>

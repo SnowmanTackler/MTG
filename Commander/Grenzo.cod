@@ -9,7 +9,6 @@
         <card number="1" price="0" name="Spinerock Knoll"/>
         <card number="1" price="0" name="Tel-Jilad Stylus"/>
         <card number="1" price="0" name="Temple of Malice"/>
-        <card number="1" price="0" name="Triskelavus"/>
         <card number="1" price="0" name="Triskelion"/>
         <card number="1" price="0" name="Ignition Team"/>
         <card number="1" price="0" name="Pus Kami"/>
@@ -47,11 +46,9 @@
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Ingot Chewer"/>
         <card number="1" price="0" name="Viscera Seer"/>
-        <card number="1" price="0" name="Zealous Conscripts"/>
         <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Braid of Fire"/>
-        <card number="1" price="0" name="Fate Unraveler"/>
         <card number="1" price="0" name="Flamerush Rider"/>
         <card number="1" price="0" name="Furystoke Giant"/>
         <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
@@ -76,27 +73,31 @@
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Shriekmaw"/>
         <card number="1" price="0" name="Gray Merchant of Asphodel"/>
-        <card number="1" price="0" name="Chromatic Lantern"/>
         <card number="1" price="0" name="Anger"/>
         <card number="1" price="0" name="Archetype of Aggression"/>
         <card number="1" price="0" name="Siege-Gang Commander"/>
         <card number="1" price="0" name="Hex Parasite"/>
-        <card number="1" price="0" name="Urborg Syphon-Mage"/>
         <card number="1" price="0" name="Burnished Hart"/>
-        <card number="1" price="0" name="Vengeful Vampire"/>
         <card number="1" price="0" name="Black Market"/>
         <card number="1" price="0" name="Withered Wretch"/>
         <card number="1" price="0" name="Phyrexian Delver"/>
         <card number="1" price="0" name="Canal Dredger"/>
-        <card number="1" price="0" name="Balthor the Defiled"/>
         <card number="1" price="0" name="Rakdos Guildgate"/>
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
         <card number="1" price="0" name="Grim Haruspex"/>
         <card number="1" price="0" name="Ogre Slumlord"/>
-        <card number="1" price="0" name="Brass Herald"/>
         <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Mindclaw Shaman"/>
+        <card number="1" price="0" name="Olivia, Mobilized for War"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Hanweir Garrison"/>
+        <card number="1" price="0" name="Zealous Conscripts"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Balthor the Defiled"/>
+        <card number="1" price="0" name="Brass Herald"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
+        <card number="1" price="0" name="Vengeful Vampire"/>
     </zone>
 </cockatrice_deck>

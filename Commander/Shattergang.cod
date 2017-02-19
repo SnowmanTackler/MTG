@@ -13,7 +13,6 @@
         <card number="1" price="0" name="Zhur-Taa Ancient"/>
         <card number="1" price="0" name="Prossh, Skyraider of Kher"/>
         <card number="1" price="0" name="Kresh the Bloodbraided"/>
-        <card number="1" price="0" name="Karrthus, Tyrant of Jund"/>
         <card number="1" price="0" name="Sek'Kuar, Deathkeeper"/>
         <card number="1" price="0" name="Doubling Season"/>
         <card number="1" price="0" name="Primal Vigor"/>
@@ -21,7 +20,6 @@
         <card number="1" price="0" name="Myr Battlesphere"/>
         <card number="1" price="0" name="Archetype of Aggression"/>
         <card number="1" price="0" name="Archetype of Endurance"/>
-        <card number="1" price="0" name="Archetype of Finality"/>
         <card number="1" price="0" name="Deathbringer Thoctar"/>
         <card number="1" price="0" name="Anger"/>
         <card number="1" price="0" name="Akroma's Memorial"/>
@@ -89,5 +87,6 @@
         <card number="1" price="0" name="Puppeteer Clique"/>
         <card number="1" price="0" name="Thragtusk"/>
         <card number="1" price="0" name="Fires of Yavimaya"/>
+        <card number="1" price="0" name="Rite of the Raging Storm"/>
     </zone>
 </cockatrice_deck>

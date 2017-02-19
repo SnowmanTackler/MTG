@@ -9,10 +9,7 @@
         <card number="1" price="0" name="Temple of Malice"/>
         <card number="1" price="0" name="Triskelavus"/>
         <card number="1" price="0" name="Triskelion"/>
-        <card number="1" price="0" name="Ignition Team"/>
-        <card number="1" price="0" name="Deathbringer Thoctar"/>
         <card number="1" price="0" name="Duplicant"/>
-        <card number="1" price="0" name="Skinrender"/>
         <card number="1" price="0" name="Badlands"/>
         <card number="1" price="0" name="Blood Crypt"/>
         <card number="1" price="0" name="Bloodstained Mire"/>
@@ -34,7 +31,7 @@
         <card number="1" price="0" name="Command Tower"/>
         <card number="1" price="0" name="Lavaclaw Reaches"/>
         <card number="2" price="0" name="Mountain"/>
-        <card number="7" price="0" name="Swamp"/>
+        <card number="10" price="0" name="Swamp"/>
         <card number="1" price="0" name="Demonic Tutor"/>
         <card number="1" price="0" name="Viscera Seer"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
@@ -45,48 +42,30 @@
         <card number="1" price="0" name="Cabal Coffers"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" price="0" name="Expedition Map"/>
-        <card number="1" price="0" name="Krenko, Mob Boss"/>
-        <card number="1" price="0" name="Sadistic Hypnotist"/>
-        <card number="1" price="0" name="Fleshbag Marauder"/>
-        <card number="1" price="0" name="Merciless Executioner"/>
         <card number="1" price="0" name="Junktroller"/>
-        <card number="1" price="0" name="Liliana, Heretical Healer"/>
         <card number="1" price="0" name="Crypt Ghast"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Spawning Pool"/>
         <card number="1" price="0" name="Akoum Refuge"/>
         <card number="1" price="0" name="Howltooth Hollow"/>
-        <card number="1" price="0" name="Shriekmaw"/>
         <card number="1" price="0" name="Gray Merchant of Asphodel"/>
         <card number="1" price="0" name="Chromatic Lantern"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Black Market"/>
-        <card number="1" price="0" name="Shimian Specter"/>
         <card number="1" price="0" name="Heartstone"/>
         <card number="1" price="0" name="Rakdos Guildgate"/>
-        <card number="1" price="0" name="Grim Poppet"/>
-        <card number="1" price="0" name="Lim-Dûl the Necromancer"/>
         <card number="1" price="0" name="Myr Battlesphere"/>
         <card number="1" price="0" name="Sandstone Oracle"/>
-        <card number="1" price="0" name="Bloodshot Cyclops"/>
         <card number="1" price="0" name="Flayer of the Hatebound"/>
         <card number="1" price="0" name="Homura, Human Ascendant"/>
         <card number="1" price="0" name="Nirkana Revenant"/>
         <card number="1" price="0" name="Ob Nixilis, Unshackled"/>
-        <card number="1" price="0" name="Scythe Specter"/>
         <card number="1" price="0" name="Vein Drinker"/>
-        <card number="1" price="0" name="Banshee of the Dread Choir"/>
         <card number="1" price="0" name="Demon of Wailing Agonies"/>
-        <card number="1" price="0" name="Gilt-Leaf Winnower"/>
-        <card number="1" price="0" name="Heartless Hidetsugu"/>
         <card number="1" price="0" name="Hoarding Dragon"/>
-        <card number="1" price="0" name="Magus of the Coffers"/>
         <card number="1" price="0" name="Malakir Bloodwitch"/>
-        <card number="1" price="0" name="Manor Gargoyle"/>
-        <card number="1" price="0" name="Phyrexian Plaguelord"/>
         <card number="1" price="0" name="Sidisi, Undead Vizier"/>
         <card number="1" price="0" name="Urabrask the Hidden"/>
-        <card number="1" price="0" name="Woebringer Demon"/>
         <card number="1" price="0" name="Ashenmoor Liege"/>
         <card number="1" price="0" name="Falkenrath Aristocrat"/>
         <card number="1" price="0" name="Falkenrath Noble"/>
@@ -94,7 +73,25 @@
         <card number="1" price="0" name="Flametongue Kavu"/>
         <card number="1" price="0" name="Mindslicer"/>
         <card number="1" price="0" name="Magus of the Abyss"/>
-        <card number="1" price="0" name="Smothering Abomination"/>
+        <card number="1" price="0" name="Olivia, Mobilized for War"/>
+        <card number="1" price="0" name="Ascendant Evincar"/>
+        <card number="1" price="0" name="Skeletal Vampire"/>
+        <card number="1" price="0" name="Thief of Blood"/>
+        <card number="1" price="0" name="Anowon, the Ruin Sage"/>
+        <card number="1" price="0" name="Drana, Liberator of Malakir"/>
+        <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" price="0" name="Sangromancer"/>
+        <card number="1" price="0" name="Vampire Nocturnus"/>
+        <card number="1" price="0" name="Captivating Vampire"/>
+        <card number="1" price="0" name="Stromkirk Captain"/>
+        <card number="1" price="0" name="Deathbringer Thoctar"/>
+        <card number="1" price="0" name="Fleshbag Marauder"/>
+        <card number="1" price="0" name="Crystal Ball"/>
+        <card number="1" price="0" name="Grim Poppet"/>
+        <card number="1" price="0" name="Dakmor Salvage"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
