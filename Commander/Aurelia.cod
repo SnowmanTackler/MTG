@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Arid Mesa"/>
         <card number="1" price="0" name="Battlefield Forge"/>
         <card number="1" price="0" name="Boros Garrison"/>
         <card number="1" price="0" name="Boros Guildgate"/>
@@ -11,7 +10,6 @@
         <card number="1" price="0" name="Clifftop Retreat"/>
         <card number="1" price="0" name="Command Tower"/>
         <card number="1" price="0" name="Eiganjo Castle"/>
-        <card number="1" price="0" name="Flagstones of Trokair"/>
         <card number="1" price="0" name="Hellion Crucible"/>
         <card number="1" price="0" name="Kabira Crossroads"/>
         <card number="1" price="0" name="Keldon Megaliths"/>
@@ -30,72 +28,74 @@
         <card number="1" price="0" name="Temple of Triumph"/>
         <card number="1" price="0" name="Wind-Scarred Crag"/>
         <card number="1" price="0" name="Hammerheim"/>
-        <card number="1" price="0" name="Basandra, Battle Seraph"/>
         <card number="1" price="0" name="Boros Swiftblade"/>
         <card number="1" price="0" name="Fabled Hero"/>
         <card number="1" price="0" name="Fencing Ace"/>
-        <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
         <card number="1" price="0" name="Hearthfire Hobgoblin"/>
         <card number="1" price="0" name="Kor Duelist"/>
         <card number="1" price="0" name="Markov Blademaster"/>
         <card number="1" price="0" name="Mirran Crusader"/>
         <card number="1" price="0" name="Prophetic Flamespeaker"/>
-        <card number="1" price="0" name="Razia, Boros Archangel"/>
         <card number="1" price="0" name="Silverblade Paladin"/>
         <card number="1" price="0" name="Skyhunter Skirmisher"/>
         <card number="1" price="0" name="Soltari Guerrillas"/>
-        <card number="1" price="0" name="Stoneforge Mystic"/>
         <card number="1" price="0" name="Tajic, Blade of the Legion"/>
-        <card number="1" price="0" name="Warren Instigator"/>
-        <card number="1" price="0" name="Ajani Vengeant"/>
         <card number="1" price="0" name="Boros Charm"/>
-        <card number="1" price="0" name="Boros Signet"/>
-        <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Darksteel Ingot"/>
         <card number="1" price="0" name="Elspeth, Knight-Errant"/>
         <card number="1" price="0" name="Iroas, God of Victory"/>
         <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Lightning Helix"/>
         <card number="1" price="0" name="Skullclamp"/>
         <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Sunforger"/>
-        <card number="1" price="0" name="Swiftfoot Boots"/>
         <card number="1" price="0" name="Sword of Body and Mind"/>
         <card number="1" price="0" name="Sword of Feast and Famine"/>
         <card number="1" price="0" name="Sword of Fire and Ice"/>
         <card number="1" price="0" name="Sword of Light and Shadow"/>
         <card number="1" price="0" name="Sword of War and Peace"/>
         <card number="1" price="0" name="Umezawa's Jitte"/>
-        <card number="1" price="0" name="Warleader's Helix"/>
         <card number="1" price="0" name="Wear // Tear"/>
-        <card number="1" price="0" name="Steelshaper's Gift"/>
-        <card number="1" price="0" name="Stonehewer Giant"/>
         <card number="1" price="0" name="Return to Dust"/>
         <card number="1" price="0" name="Inferno Titan"/>
         <card number="1" price="0" name="Sun Titan"/>
         <card number="1" price="0" name="Aurelia's Fury"/>
-        <card number="1" price="0" name="Swords to Plowshares"/>
         <card number="1" price="0" name="Nahiri, the Lithomancer"/>
         <card number="1" price="0" name="Sword of Vengeance"/>
         <card number="1" price="0" name="Leonin Shikari"/>
         <card number="1" price="0" name="Puresteel Paladin"/>
         <card number="1" price="0" name="Darksteel Citadel"/>
-        <card number="1" price="0" name="Ancient Den"/>
-        <card number="1" price="0" name="Great Furnace"/>
-        <card number="1" price="0" name="Jor Kadeen, the Prevailer"/>
-        <card number="1" price="0" name="Balefire Liege"/>
         <card number="1" price="0" name="Indomitable Archangel"/>
         <card number="1" price="0" name="Outpost Siege"/>
         <card number="1" price="0" name="Citadel Siege"/>
         <card number="1" price="0" name="Loxodon Warhammer"/>
         <card number="1" price="0" name="Sword of the Animist"/>
-        <card number="1" price="0" name="Anya, Merciless Angel"/>
-        <card number="1" price="0" name="Bastion Protector"/>
         <card number="1" price="0" name="Kalemne, Disciple of Iroas"/>
         <card number="1" price="0" name="Iroas's Champion"/>
         <card number="1" price="0" name="Needle Spires"/>
         <card number="1" price="0" name="Kazuul's Toll Collector"/>
-        <card number="1" price="0" name="Relic Seeker"/>
+        <card number="1" price="0" name="Oketra the True"/>
+        <card number="1" price="0" name="Solemn Recruit"/>
+        <card number="1" price="0" name="Adorned Pouncer"/>
+        <card number="1" price="0" name="Hammer of Nazahn"/>
+        <card number="1" price="0" name="Vulshok Battlemaster"/>
+        <card number="1" price="0" name="Balan, Wandering Knight"/>
+        <card number="1" price="0" name="Sram, Senior Edificer"/>
+        <card number="1" price="0" name="Mask of Memory"/>
+        <card number="1" price="0" name="Danitha Capashen, Paragon"/>
+        <card number="1" price="0" name="Etali, Primal Storm"/>
+        <card number="1" price="0" name="Slayers' Stronghold"/>
+        <card number="1" price="0" name="Path of Mettle"/>
+        <card number="1" price="0" name="Aven Sunstriker"/>
+        <card number="1" price="0" name="Grenzo, Havoc Raiser"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Field of Ruin"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Memorial to Glory"/>
+        <card number="1" price="0" name="Memorial to War"/>
+        <card number="1" price="0" name="Ajani Vengeant"/>
+        <card number="1" price="0" name="Huatli, Warrior Poet"/>
+        <card number="1" price="0" name="Anya, Merciless Angel"/>
+        <card number="1" price="0" name="Tiana, Ship's Caretaker"/>
+        <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>
