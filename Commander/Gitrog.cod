@@ -10,17 +10,11 @@
         <card number="1" price="0" name="Exploration"/>
         <card number="1" price="0" name="Oracle of Mul Daya"/>
         <card number="1" price="0" name="Courser of Kruphix"/>
-        <card number="1" price="0" name="Chord of Calling"/>
         <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Reap and Sow"/>
         <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" price="0" name="Cabal Coffers"/>
-        <card number="1" price="0" name="Expedition Map"/>
-        <card number="1" price="0" name="Sylvan Scrying"/>
         <card number="1" price="0" name="Dakmor Salvage"/>
         <card number="1" price="0" name="Kozilek, the Great Distortion"/>
         <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
-        <card number="1" price="0" name="Deep Reconnaissance"/>
         <card number="1" price="0" name="Crucible of Worlds"/>
         <card number="1" price="0" name="Life from the Loam"/>
         <card number="1" price="0" name="Vinelasher Kudzu"/>
@@ -30,10 +24,8 @@
         <card number="1" price="0" name="Zendikar's Roil"/>
         <card number="1" price="0" name="Rampaging Baloths"/>
         <card number="1" price="0" name="Primeval Bounty"/>
-        <card number="1" price="0" name="Increasing Ambition"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
         <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
-        <card number="1" price="0" name="Verdant Catacombs"/>
         <card number="1" price="0" name="Overgrown Tomb"/>
         <card number="1" price="0" name="Bayou"/>
         <card number="1" price="0" name="Llanowar Wastes"/>
@@ -44,10 +36,9 @@
         <card number="1" price="0" name="Golgari Rot Farm"/>
         <card number="1" price="0" name="Jungle Hollow"/>
         <card number="1" price="0" name="Woodland Cemetery"/>
-        <card number="8" price="0" name="Forest"/>
-        <card number="8" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="4" price="0" name="Swamp"/>
         <card number="1" price="0" name="Avenger of Zendikar"/>
-        <card number="1" price="0" name="Baloth Woodcrasher"/>
         <card number="1" price="0" name="Caustic Crawler"/>
         <card number="1" price="0" name="Guul Draz Overseer"/>
         <card number="1" price="0" name="Khalni Heart Expedition"/>
@@ -61,12 +52,8 @@
         <card number="1" price="0" name="Blighted Woodland"/>
         <card number="1" price="0" name="Blighted Fen"/>
         <card number="1" price="0" name="World Breaker"/>
-        <card number="1" price="0" name="Demonic Tutor"/>
-        <card number="1" price="0" name="Vampiric Tutor"/>
         <card number="1" price="0" name="Titania, Protector of Argoth"/>
         <card number="1" price="0" name="Freyalise, Llanowar's Fury"/>
-        <card number="1" price="0" name="Green Sun's Zenith"/>
-        <card number="1" price="0" name="Crop Rotation"/>
         <card number="1" price="0" name="Bojuka Bog"/>
         <card number="1" price="0" name="Drownyard Temple"/>
         <card number="1" price="0" name="Mirrorpool"/>
@@ -76,20 +63,41 @@
         <card number="1" price="0" name="Wastes"/>
         <card number="1" price="0" name="Petrified Field"/>
         <card number="1" price="0" name="It That Betrays"/>
-        <card number="1" price="0" name="Akroma's Memorial"/>
         <card number="1" price="0" name="Genesis Wave"/>
-        <card number="1" price="0" name="Ulvenwald Hydra"/>
-        <card number="1" price="0" name="Dark Depths"/>
-        <card number="1" price="0" name="Thespian's Stage"/>
         <card number="1" price="0" name="Maze of Ith"/>
         <card number="1" price="0" name="Glacial Chasm"/>
-        <card number="1" price="0" name="Tempt with Discovery"/>
-        <card number="1" price="0" name="Centaur Vinecrasher"/>
         <card number="1" price="0" name="Darksteel Colossus"/>
-        <card number="1" price="0" name="Animist's Awakening"/>
         <card number="1" price="0" name="Greenwarden of Murasa"/>
-        <card number="1" price="0" name="Realms Uncharted"/>
         <card number="1" price="0" name="Splendid Reclamation"/>
         <card number="1" price="0" name="Emrakul, the Promised End"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Burgeoning"/>
+        <card number="1" price="0" name="Tireless Tracker"/>
+        <card number="1" price="0" name="Ramunap Excavator"/>
+        <card number="1" price="0" name="The Mending of Dominaria"/>
+        <card number="1" price="0" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" price="0" name="World Shaper"/>
+        <card number="1" price="0" name="Wayward Swordtooth"/>
+        <card number="1" price="0" name="Skirge Familiar"/>
+        <card number="1" price="0" name="Azusa, Lost but Seeking"/>
+        <card number="1" price="0" name="Kodama's Reach"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Creeping Renaissance"/>
+        <card number="1" price="0" name="Rites of Flourishing"/>
+        <card number="1" price="0" name="Field of Ruin"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Desert of the Glorified"/>
+        <card number="1" price="0" name="Desert of the Indomitable"/>
+        <card number="1" price="0" name="Hissing Quagmire"/>
+        <card number="1" price="0" name="Memorial to Folly"/>
+        <card number="1" price="0" name="Memorial to Unity"/>
+        <card number="1" price="0" name="Hashep Oasis"/>
+        <card number="1" price="0" name="Ifnir Deadlands"/>
+        <card number="1" price="0" name="Scavenger Grounds"/>
+        <card number="1" price="0" name="Dunes of the Dead"/>
+        <card number="1" price="0" name="Akroma's Memorial"/>
+        <card number="1" price="0" name="Baloth Woodcrasher"/>
     </zone>
 </cockatrice_deck>
