@@ -63,7 +63,6 @@
         <card number="1" price="0" name="Nekrataal"/>
         <card number="1" price="0" name="Shriekmaw"/>
         <card number="1" price="0" name="Gray Merchant of Asphodel"/>
-        <card number="1" price="0" name="Archetype of Aggression"/>
         <card number="1" price="0" name="Siege-Gang Commander"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Black Market"/>
@@ -73,7 +72,6 @@
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
         <card number="1" price="0" name="Grim Haruspex"/>
         <card number="1" price="0" name="Ogre Slumlord"/>
-        <card number="1" price="0" name="Bloodline Keeper"/>
         <card number="1" price="0" name="Olivia, Mobilized for War"/>
         <card number="1" price="0" name="Hanweir Battlements"/>
         <card number="1" price="0" name="Hanweir Garrison"/>
@@ -96,6 +94,8 @@
         <card number="1" price="0" name="Canyon Slough"/>
         <card number="1" price="0" name="Anger"/>
         <card number="1" price="0" name="Crypt Ghast"/>
+        <card number="1" price="0" name="Meteor Golem"/>
+        <card number="1" price="0" name="Whisper, Blood Liturgist"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
