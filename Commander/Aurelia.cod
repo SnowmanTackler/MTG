@@ -77,7 +77,6 @@
         <card number="1" price="0" name="Hammer of Nazahn"/>
         <card number="1" price="0" name="Vulshok Battlemaster"/>
         <card number="1" price="0" name="Balan, Wandering Knight"/>
-        <card number="1" price="0" name="Sram, Senior Edificer"/>
         <card number="1" price="0" name="Mask of Memory"/>
         <card number="1" price="0" name="Danitha Capashen, Paragon"/>
         <card number="1" price="0" name="Etali, Primal Storm"/>
@@ -96,6 +95,7 @@
         <card number="1" price="0" name="Anya, Merciless Angel"/>
         <card number="1" price="0" name="Tiana, Ship's Caretaker"/>
         <card number="1" price="0" name="Gisela, Blade of Goldnight"/>
+        <card number="1" price="0" name="Bloodforged Battle-Axe"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Aurelia, the Warleader"/>
