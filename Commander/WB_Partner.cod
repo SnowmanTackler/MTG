@@ -3,85 +3,93 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" price="0" name="Ravos, Soultender"/>
-        <card number="1" price="0" name="Tymna the Weaver"/>
+        <card number="1" name="Ravos, Soultender"/>
+        <card number="1" name="Tymna the Weaver"/>
+        <card number="1" name="Teysa, Orzhov Scion"/>
     </zone>
     <zone name="main">
-        <card number="1" price="0" name="Captain's Claws"/>
-        <card number="1" price="0" name="Brimaz, King of Oreskos"/>
-        <card number="1" price="0" name="Consul's Lieutenant"/>
-        <card number="1" price="0" name="Herald of the Host"/>
-        <card number="1" price="0" name="Lightning Greaves"/>
-        <card number="1" price="0" name="Hero of Bladehold"/>
-        <card number="1" price="0" name="Launch the Fleet"/>
-        <card number="1" price="0" name="Wingmate Roc"/>
-        <card number="1" price="0" name="Athreos, God of Passage"/>
-        <card number="1" price="0" name="Obzedat, Ghost Council"/>
-        <card number="1" price="0" name="Kambal, Consul of Allocation"/>
-        <card number="1" price="0" name="Teysa, Orzhov Scion"/>
-        <card number="1" price="0" name="Elspeth Tirel"/>
-        <card number="1" price="0" name="Elspeth, Sun's Champion"/>
-        <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
-        <card number="1" price="0" name="Oath of Gideon"/>
-        <card number="1" price="0" name="Oath of Liliana"/>
-        <card number="1" price="0" name="Ajani Goldmane"/>
-        <card number="1" price="0" name="Ajani Steadfast"/>
-        <card number="1" price="0" name="Sheoldred, Whispering One"/>
-        <card number="1" price="0" name="Elesh Norn, Grand Cenobite"/>
-        <card number="1" price="0" name="Kaya, Ghost Assassin"/>
-        <card number="1" price="0" name="Liliana Vess"/>
-        <card number="1" price="0" name="Sun Titan"/>
-        <card number="1" price="0" name="Grave Titan"/>
-        <card number="1" price="0" name="Ob Nixilis of the Black Oath"/>
-        <card number="1" price="0" name="Sorin, Grim Nemesis"/>
-        <card number="1" price="0" name="Sorin, Lord of Innistrad"/>
-        <card number="1" price="0" name="Orzhov Signet"/>
-        <card number="1" price="0" name="Sorin, Solemn Visitor"/>
-        <card number="1" price="0" name="Chromatic Lantern"/>
-        <card number="1" price="0" name="Orzhov Keyrune"/>
-        <card number="1" price="0" name="Darksteel Ingot"/>
-        <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Lingering Souls"/>
-        <card number="1" price="0" name="Intangible Virtue"/>
-        <card number="1" price="0" name="Bitterblossom"/>
-        <card number="1" price="0" name="Spectral Procession"/>
-        <card number="1" price="0" name="Swords to Plowshares"/>
-        <card number="1" price="0" name="Vindicate"/>
-        <card number="1" price="0" name="Utter End"/>
-        <card number="1" price="0" name="Return to Dust"/>
-        <card number="1" price="0" name="Battle Screech"/>
-        <card number="1" price="0" name="Syphon Flesh"/>
-        <card number="1" price="0" name="Seize the Soul"/>
-        <card number="1" price="0" name="White Sun's Zenith"/>
-        <card number="1" price="0" name="True Conviction"/>
-        <card number="1" price="0" name="Mortify"/>
-        <card number="1" price="0" name="Zealous Persecution"/>
-        <card number="1" price="0" name="Pianna, Nomad Captain"/>
-        <card number="1" price="0" name="Scrubland"/>
-        <card number="1" price="0" name="Godless Shrine"/>
-        <card number="1" price="0" name="Fetid Heath"/>
-        <card number="1" price="0" name="Temple of Silence"/>
-        <card number="1" price="0" name="Orzhov Basilica"/>
-        <card number="1" price="0" name="Scoured Barrens"/>
-        <card number="1" price="0" name="Caves of Koilos"/>
-        <card number="1" price="0" name="Sejiri Steppe"/>
-        <card number="1" price="0" name="Bojuka Bog"/>
-        <card number="12" price="0" name="Swamp"/>
-        <card number="12" price="0" name="Plains"/>
-        <card number="1" price="0" name="Myriad Landscape"/>
-        <card number="1" price="0" name="Sram's Expertise"/>
-        <card number="1" price="0" name="Command Tower"/>
-        <card number="1" price="0" name="Concealed Courtyard"/>
-        <card number="1" price="0" name="Shambling Vent"/>
-        <card number="1" price="0" name="Westvale Abbey"/>
-        <card number="1" price="0" name="Merciless Eviction"/>
-        <card number="1" price="0" name="Homeward Path"/>
-        <card number="1" price="0" name="Anguished Unmaking"/>
-        <card number="1" price="0" name="Martial Coup"/>
-        <card number="1" price="0" name="Angel of Invention"/>
-        <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Crested Sunmare"/>
-        <card number="1" price="0" name="Liliana, Death's Majesty"/>
-        <card number="1" price="0" name="Cathars' Crusade"/>
+        <card number="1" name="Captain's Claws"/>
+        <card number="1" name="Brimaz, King of Oreskos"/>
+        <card number="1" name="Herald of the Host"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Launch the Fleet"/>
+        <card number="1" name="Wingmate Roc"/>
+        <card number="1" name="Obzedat, Ghost Council"/>
+        <card number="1" name="Elspeth Tirel"/>
+        <card number="1" name="Elspeth, Sun's Champion"/>
+        <card number="1" name="Gideon, Ally of Zendikar"/>
+        <card number="1" name="Oath of Gideon"/>
+        <card number="1" name="Oath of Liliana"/>
+        <card number="1" name="Ajani Goldmane"/>
+        <card number="1" name="Ajani Steadfast"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Kaya, Ghost Assassin"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Sorin, Grim Nemesis"/>
+        <card number="1" name="Sorin, Lord of Innistrad"/>
+        <card number="1" name="Sorin, Solemn Visitor"/>
+        <card number="1" name="Lingering Souls"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Bitterblossom"/>
+        <card number="1" name="Spectral Procession"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Battle Screech"/>
+        <card number="1" name="Syphon Flesh"/>
+        <card number="1" name="Seize the Soul"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Fetid Heath"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Sejiri Steppe"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="8" name="Swamp"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Sram's Expertise"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Shambling Vent"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Angel of Invention"/>
+        <card number="1" name="Crested Sunmare"/>
+        <card number="1" name="Liliana, Death's Majesty"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Profane Procession"/>
+        <card number="1" name="Ghost Council of Orzhova"/>
+        <card number="1" name="Karlov of the Ghost Council"/>
+        <card number="1" name="Regal Bloodlord"/>
+        <card number="1" name="Hidden Stockpile"/>
+        <card number="1" name="Hanweir Militia Captain"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Deathbringer Liege"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Vraska's Contempt"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Elspeth, Knight-Errant"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Anointed Procession"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
     </zone>
 </cockatrice_deck>
