@@ -5,7 +5,6 @@
     <zone name="side">
         <card number="1" name="Ravos, Soultender"/>
         <card number="1" name="Tymna the Weaver"/>
-        <card number="1" name="Teysa, Orzhov Scion"/>
     </zone>
     <zone name="main">
         <card number="1" name="Captain's Claws"/>
