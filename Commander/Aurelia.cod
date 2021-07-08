@@ -6,27 +6,16 @@
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Boros Garrison"/>
         <card number="1" name="Boros Guildgate"/>
-        <card number="1" name="Cathedral of War"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Eiganjo Castle"/>
-        <card number="1" name="Hellion Crucible"/>
-        <card number="1" name="Kabira Crossroads"/>
-        <card number="1" name="Keldon Megaliths"/>
-        <card number="1" name="Mistveil Plains"/>
-        <card number="4" name="Mountain"/>
+        <card number="6" name="Mountain"/>
         <card number="1" name="New Benalia"/>
-        <card number="1" name="Opal Palace"/>
-        <card number="4" name="Plains"/>
+        <card number="6" name="Plains"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Sejiri Steppe"/>
-        <card number="1" name="Smoldering Spires"/>
-        <card number="1" name="Sunhome, Fortress of the Legion"/>
-        <card number="1" name="Teetering Peaks"/>
         <card number="1" name="Temple of Triumph"/>
-        <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Hammerheim"/>
         <card number="1" name="Boros Swiftblade"/>
         <card number="1" name="Fabled Hero"/>
@@ -38,11 +27,7 @@
         <card number="1" name="Prophetic Flamespeaker"/>
         <card number="1" name="Silverblade Paladin"/>
         <card number="1" name="Skyhunter Skirmisher"/>
-        <card number="1" name="Soltari Guerrillas"/>
-        <card number="1" name="Tajic, Blade of the Legion"/>
         <card number="1" name="Boros Charm"/>
-        <card number="1" name="Elspeth, Knight-Errant"/>
-        <card number="1" name="Iroas, God of Victory"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Sol Ring"/>
@@ -54,24 +39,18 @@
         <card number="1" name="Umezawa's Jitte"/>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Return to Dust"/>
-        <card number="1" name="Inferno Titan"/>
         <card number="1" name="Sun Titan"/>
-        <card number="1" name="Aurelia's Fury"/>
         <card number="1" name="Nahiri, the Lithomancer"/>
-        <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Leonin Shikari"/>
         <card number="1" name="Puresteel Paladin"/>
         <card number="1" name="Darksteel Citadel"/>
         <card number="1" name="Indomitable Archangel"/>
         <card number="1" name="Outpost Siege"/>
-        <card number="1" name="Citadel Siege"/>
         <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Sword of the Animist"/>
-        <card number="1" name="Kalemne, Disciple of Iroas"/>
         <card number="1" name="Iroas's Champion"/>
         <card number="1" name="Needle Spires"/>
         <card number="1" name="Kazuul's Toll Collector"/>
-        <card number="1" name="Oketra the True"/>
         <card number="1" name="Solemn Recruit"/>
         <card number="1" name="Adorned Pouncer"/>
         <card number="1" name="Hammer of Nazahn"/>
@@ -81,23 +60,48 @@
         <card number="1" name="Danitha Capashen, Paragon"/>
         <card number="1" name="Etali, Primal Storm"/>
         <card number="1" name="Slayers' Stronghold"/>
-        <card number="1" name="Path of Mettle"/>
         <card number="1" name="Aven Sunstriker"/>
-        <card number="1" name="Grenzo, Havoc Raiser"/>
         <card number="1" name="Wasteland"/>
         <card number="1" name="Strip Mine"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Ghost Quarter"/>
         <card number="1" name="Memorial to Glory"/>
         <card number="1" name="Memorial to War"/>
-        <card number="1" name="Ajani Vengeant"/>
-        <card number="1" name="Huatli, Warrior Poet"/>
         <card number="1" name="Anya, Merciless Angel"/>
         <card number="1" name="Tiana, Ship's Caretaker"/>
         <card number="1" name="Gisela, Blade of Goldnight"/>
         <card number="1" name="Bloodforged Battle-Axe"/>
+        <card number="1" name="Swiftblade Vindicator"/>
+        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="1" name="Great Furnace"/>
+        <card number="1" name="Rogue's Gloves"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Sword of Sinew and Steel"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Akiri, Fearless Voyager"/>
+        <card number="1" name="Halvar, God of Battle"/>
+        <card number="1" name="Nahiri, Heir of the Ancients"/>
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Wyleth, Soul of Steel"/>
+        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Sunbaked Canyon"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Needleverge Pathway"/>
+        <card number="1" name="Armored Skyhunter"/>
+        <card number="1" name="Sword of Hearth and Home"/>
     </zone>
     <zone name="side">
         <card number="1" name="Aurelia, the Warleader"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Axgard Armory"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Teetering Peaks"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Koll, the Forgemaster"/>
+        <card number="1" name="Sword of Vengeance"/>
     </zone>
 </cockatrice_deck>
