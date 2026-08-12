@@ -1,103 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Aug 11 23:07:09 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
-        <card number="1" price="0" name="The Gitrog Monster"/>
+        <card number="1" name="The Gitrog Monster"/>
     </zone>
     <zone name="main">
-        <card number="1" price="0" name="Cabal Pit"/>
-        <card number="1" price="0" name="Exploration"/>
-        <card number="1" price="0" name="Oracle of Mul Daya"/>
-        <card number="1" price="0" name="Courser of Kruphix"/>
-        <card number="1" price="0" name="Sakura-Tribe Elder"/>
-        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" price="0" name="Dakmor Salvage"/>
-        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
-        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
-        <card number="1" price="0" name="Crucible of Worlds"/>
-        <card number="1" price="0" name="Life from the Loam"/>
-        <card number="1" price="0" name="Vinelasher Kudzu"/>
-        <card number="1" price="0" name="Retreat to Kazandu"/>
-        <card number="1" price="0" name="Retreat to Hagra"/>
-        <card number="1" price="0" name="Grazing Gladehart"/>
-        <card number="1" price="0" name="Zendikar's Roil"/>
-        <card number="1" price="0" name="Rampaging Baloths"/>
-        <card number="1" price="0" name="Primeval Bounty"/>
-        <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
-        <card number="1" price="0" name="Overgrown Tomb"/>
-        <card number="1" price="0" name="Bayou"/>
-        <card number="1" price="0" name="Llanowar Wastes"/>
-        <card number="1" price="0" name="Twilight Mire"/>
-        <card number="1" price="0" name="Evolving Wilds"/>
-        <card number="1" price="0" name="Terramorphic Expanse"/>
-        <card number="1" price="0" name="Temple of Malady"/>
-        <card number="1" price="0" name="Golgari Rot Farm"/>
-        <card number="1" price="0" name="Jungle Hollow"/>
-        <card number="1" price="0" name="Woodland Cemetery"/>
-        <card number="4" price="0" name="Forest"/>
-        <card number="4" price="0" name="Swamp"/>
-        <card number="1" price="0" name="Avenger of Zendikar"/>
-        <card number="1" price="0" name="Caustic Crawler"/>
-        <card number="1" price="0" name="Guul Draz Overseer"/>
-        <card number="1" price="0" name="Khalni Heart Expedition"/>
-        <card number="1" price="0" name="Lotus Cobra"/>
-        <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
-        <card number="1" price="0" name="Barren Moor"/>
-        <card number="1" price="0" name="Blasted Landscape"/>
-        <card number="1" price="0" name="Polluted Mire"/>
-        <card number="1" price="0" name="Slippery Karst"/>
-        <card number="1" price="0" name="Tranquil Thicket"/>
-        <card number="1" price="0" name="Blighted Woodland"/>
-        <card number="1" price="0" name="Blighted Fen"/>
-        <card number="1" price="0" name="World Breaker"/>
-        <card number="1" price="0" name="Titania, Protector of Argoth"/>
-        <card number="1" price="0" name="Freyalise, Llanowar's Fury"/>
-        <card number="1" price="0" name="Bojuka Bog"/>
-        <card number="1" price="0" name="Drownyard Temple"/>
-        <card number="1" price="0" name="Mirrorpool"/>
-        <card number="1" price="0" name="Myriad Landscape"/>
-        <card number="1" price="0" name="Void Winnower"/>
-        <card number="1" price="0" name="Terastodon"/>
-        <card number="1" price="0" name="Wastes"/>
-        <card number="1" price="0" name="Petrified Field"/>
-        <card number="1" price="0" name="It That Betrays"/>
-        <card number="1" price="0" name="Genesis Wave"/>
-        <card number="1" price="0" name="Maze of Ith"/>
-        <card number="1" price="0" name="Glacial Chasm"/>
-        <card number="1" price="0" name="Darksteel Colossus"/>
-        <card number="1" price="0" name="Greenwarden of Murasa"/>
-        <card number="1" price="0" name="Splendid Reclamation"/>
-        <card number="1" price="0" name="Emrakul, the Promised End"/>
-        <card number="1" price="0" name="Ash Barrens"/>
-        <card number="1" price="0" name="Burgeoning"/>
-        <card number="1" price="0" name="Tireless Tracker"/>
-        <card number="1" price="0" name="Ramunap Excavator"/>
-        <card number="1" price="0" name="The Mending of Dominaria"/>
-        <card number="1" price="0" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" price="0" name="World Shaper"/>
-        <card number="1" price="0" name="Wayward Swordtooth"/>
-        <card number="1" price="0" name="Skirge Familiar"/>
-        <card number="1" price="0" name="Azusa, Lost but Seeking"/>
-        <card number="1" price="0" name="Kodama's Reach"/>
-        <card number="1" price="0" name="Cultivate"/>
-        <card number="1" price="0" name="Creeping Renaissance"/>
-        <card number="1" price="0" name="Rites of Flourishing"/>
-        <card number="1" price="0" name="Field of Ruin"/>
-        <card number="1" price="0" name="Strip Mine"/>
-        <card number="1" price="0" name="Wasteland"/>
-        <card number="1" price="0" name="Ghost Quarter"/>
-        <card number="1" price="0" name="Desert of the Glorified"/>
-        <card number="1" price="0" name="Desert of the Indomitable"/>
-        <card number="1" price="0" name="Hissing Quagmire"/>
-        <card number="1" price="0" name="Memorial to Folly"/>
-        <card number="1" price="0" name="Memorial to Unity"/>
-        <card number="1" price="0" name="Hashep Oasis"/>
-        <card number="1" price="0" name="Ifnir Deadlands"/>
-        <card number="1" price="0" name="Scavenger Grounds"/>
-        <card number="1" price="0" name="Dunes of the Dead"/>
-        <card number="1" price="0" name="Akroma's Memorial"/>
-        <card number="1" price="0" name="Baloth Woodcrasher"/>
+        <card number="1" name="Cabal Pit"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Life from the Loam"/>
+        <card number="1" name="Vinelasher Kudzu"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Retreat to Hagra"/>
+        <card number="1" name="Grazing Gladehart"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Caustic Crawler"/>
+        <card number="1" name="Guul Draz Overseer"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Polluted Mire"/>
+        <card number="1" name="Slippery Karst"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="1" name="World Breaker"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Freyalise, Llanowar's Fury"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Drownyard Temple"/>
+        <card number="1" name="Mirrorpool"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Wastes"/>
+        <card number="1" name="Petrified Field"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Glacial Chasm"/>
+        <card number="1" name="Darksteel Colossus"/>
+        <card number="1" name="Greenwarden of Murasa"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Tireless Tracker"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="The Mending of Dominaria"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Wayward Swordtooth"/>
+        <card number="1" name="Skirge Familiar"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Rites of Flourishing"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Desert of the Glorified"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Hissing Quagmire"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Memorial to Unity"/>
+        <card number="1" name="Hashep Oasis"/>
+        <card number="1" name="Ifnir Deadlands"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Dunes of the Dead"/>
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Baloth Woodcrasher"/>
     </zone>
 </cockatrice_deck>
