@@ -1,0 +1,56 @@
+#!/bin/sh
+# Keep committed .cod decklists alphabetized and free of Cockatrice scratch data.
+#
+# Decks that are staged whole get formatted and re-staged automatically. A deck
+# with unstaged edits on top of what is staged is only checked -- fixing it here
+# would sweep those edits into the commit -- so the commit is blocked instead.
+
+set -e
+
+root=$(git rev-parse --show-toplevel)
+formatter="$root/format_decks.py"
+[ -x "$formatter" ] || exit 0
+
+staged=$(git diff --cached --name-only --diff-filter=ACMR -z | tr '\0' '\n' | grep '\.cod$' || true)
+[ -n "$staged" ] || exit 0
+
+dirty=""
+clean=""
+
+# Split on newlines only, so deck names with spaces survive.
+OLDIFS=$IFS
+IFS='
+'
+for deck in $staged; do
+    if git diff --quiet -- "$deck"; then
+        clean="$clean$deck$IFS"
+    else
+        dirty="$dirty$deck$IFS"
+    fi
+done
+
+status=0
+
+for deck in $clean; do
+    [ -n "$deck" ] || continue
+    "$formatter" "$root/$deck" | sed 's/^/pre-commit: /'
+    git add -- "$root/$deck"
+done
+
+for deck in $dirty; do
+    [ -n "$deck" ] || continue
+    tmp=$(mktemp)
+    git show ":$deck" > "$tmp"
+    if ! "$formatter" --check "$tmp" > /dev/null; then
+        echo "pre-commit: $deck is staged unformatted, and has unstaged edits."
+        status=1
+    fi
+    rm -f "$tmp"
+done
+
+if [ "$status" -ne 0 ]; then
+    echo "pre-commit: run ./format_decks.py and stage the result."
+fi
+
+IFS=$OLDIFS
+exit $status
