@@ -3,27 +3,27 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="22" price="0" name="Island"/>
-        <card number="2" price="0" name="Faerie Conclave"/>
-        <card number="1" price="0" name="Gilded Drake"/>
-        <card number="1" price="0" name="Meloku the Clouded Mirror"/>
-        <card number="1" price="0" name="Venser, Shaper Savant"/>
-        <card number="1" price="0" name="Morphling"/>
-        <card number="4" price="0" name="Errant Ephemeron"/>
-        <card number="2" price="0" name="Fog Bank"/>
-        <card number="2" price="0" name="Sower of Temptation"/>
-        <card number="1" price="0" name="AEtherling"/>
-        <card number="1" price="0" name="Sphinx of Jwar Isle"/>
-        <card number="1" price="0" name="Draining Whelk"/>
-        <card number="1" price="0" name="Kira, Great Glass-Spinner"/>
-        <card number="4" price="0" name="Rewind"/>
-        <card number="2" price="0" name="Echoing Truth"/>
-        <card number="4" price="0" name="Boomerang"/>
-        <card number="4" price="0" name="Counterspell"/>
-        <card number="2" price="0" name="Stifle"/>
-        <card number="1" price="0" name="Jace Beleren"/>
-        <card number="1" price="0" name="Fact or Fiction"/>
-        <card number="1" price="0" name="Vedalken Shackles"/>
-        <card number="1" price="0" name="Gifts Ungiven"/>
+        <card number="1" name="AEtherling"/>
+        <card number="4" name="Boomerang"/>
+        <card number="4" name="Counterspell"/>
+        <card number="1" name="Draining Whelk"/>
+        <card number="2" name="Echoing Truth"/>
+        <card number="4" name="Errant Ephemeron"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="2" name="Faerie Conclave"/>
+        <card number="2" name="Fog Bank"/>
+        <card number="1" name="Gifts Ungiven"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="22" name="Island"/>
+        <card number="1" name="Jace Beleren"/>
+        <card number="1" name="Kira, Great Glass-Spinner"/>
+        <card number="1" name="Meloku the Clouded Mirror"/>
+        <card number="1" name="Morphling"/>
+        <card number="4" name="Rewind"/>
+        <card number="2" name="Sower of Temptation"/>
+        <card number="1" name="Sphinx of Jwar Isle"/>
+        <card number="2" name="Stifle"/>
+        <card number="1" name="Vedalken Shackles"/>
+        <card number="1" name="Venser, Shaper Savant"/>
     </zone>
 </cockatrice_deck>

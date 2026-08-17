@@ -3,99 +3,99 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Dragonlord Silumgar"/>
-        <card number="1" price="0" name="Silumgar's Command"/>
-        <card number="1" price="0" name="Silumgar Monument"/>
-        <card number="1" price="0" name="Deathbringer Regent"/>
-        <card number="1" price="0" name="Crux of Fate"/>
-        <card number="1" price="0" name="Icefall Regent"/>
-        <card number="1" price="0" name="Mist Dragon"/>
-        <card number="1" price="0" name="Necromaster Dragon"/>
-        <card number="1" price="0" name="Quicksilver Dragon"/>
-        <card number="1" price="0" name="Steel Hellkite"/>
-        <card number="1" price="0" name="Cairn Wanderer"/>
-        <card number="1" price="0" name="Shapesharer"/>
-        <card number="1" price="0" name="Mistform Ultimus"/>
-        <card number="1" price="0" name="Coat of Arms"/>
-        <card number="1" price="0" name="Hex"/>
-        <card number="1" price="0" name="Cryptoplasm"/>
-        <card number="1" price="0" name="Evil Twin"/>
-        <card number="1" price="0" name="Gigantoplasm"/>
-        <card number="1" price="0" name="Cryptic Command"/>
-        <card number="1" price="0" name="Lazav, Dimir Mastermind"/>
-        <card number="1" price="0" name="Phyrexian Metamorph"/>
-        <card number="1" price="0" name="Quicksilver Gargantuan"/>
-        <card number="1" price="0" name="Stunt Double"/>
-        <card number="1" price="0" name="Vesuvan Shapeshifter"/>
-        <card number="1" price="0" name="Akroma's Memorial"/>
-        <card number="1" price="0" name="Cyclonic Rift"/>
-        <card number="1" price="0" name="Fated Return"/>
-        <card number="1" price="0" name="Fated Infatuation"/>
-        <card number="1" price="0" name="Kokusho, the Evening Star"/>
-        <card number="1" price="0" name="Keiga, the Tide Star"/>
-        <card number="1" price="0" name="Body Double"/>
-        <card number="1" price="0" name="Profane Command"/>
-        <card number="1" price="0" name="Solemn Simulacrum"/>
-        <card number="1" price="0" name="Clever Impersonator"/>
-        <card number="1" price="0" name="Rite of Replication"/>
-        <card number="1" price="0" name="Fact or Fiction"/>
-        <card number="1" price="0" name="Acid-Spewer Dragon"/>
-        <card number="1" price="0" name="Belltoll Dragon"/>
-        <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Treachery"/>
-        <card number="1" price="0" name="Stolen Identity"/>
-        <card number="1" price="0" name="Phyrexian Arena"/>
-        <card number="1" price="0" name="Coalition Relic"/>
-        <card number="1" price="0" name="Gilded Lotus"/>
-        <card number="1" price="0" name="Mirror Gallery"/>
-        <card number="1" price="0" name="Clone"/>
-        <card number="1" price="0" name="Reliquary Tower"/>
-        <card number="1" price="0" name="Dimir Aqueduct"/>
-        <card number="1" price="0" name="Underground River"/>
-        <card number="1" price="0" name="Sunken Ruins"/>
-        <card number="1" price="0" name="Volrath's Stronghold"/>
-        <card number="1" price="0" name="Watery Grave"/>
-        <card number="1" price="0" name="Underground Sea"/>
-        <card number="1" price="0" name="Bojuka Bog"/>
-        <card number="5" price="0" name="Swamp"/>
-        <card number="5" price="0" name="Island"/>
-        <card number="1" price="0" name="Mindscour Dragon"/>
-        <card number="1" price="0" name="Polymorphist's Jest"/>
-        <card number="1" price="0" name="Sudden Spoiling"/>
-        <card number="1" price="0" name="Notion Thief"/>
-        <card number="1" price="0" name="Sire of Stagnation"/>
-        <card number="1" price="0" name="Bone Dragon"/>
-        <card number="1" price="0" name="Arcane Adaptation"/>
-        <card number="1" price="0" name="Metallic Mimic"/>
-        <card number="1" price="0" name="Conspiracy"/>
-        <card number="1" price="0" name="Kindred Discovery"/>
-        <card number="1" price="0" name="Strip Mine"/>
-        <card number="1" price="0" name="Wasteland"/>
-        <card number="1" price="0" name="Ghost Quarter"/>
-        <card number="1" price="0" name="Field of Ruin"/>
-        <card number="1" price="0" name="The Eldest Reborn"/>
-        <card number="1" price="0" name="Memorial to Folly"/>
-        <card number="1" price="0" name="Memorial to Genius"/>
-        <card number="1" price="0" name="Fetid Pools"/>
-        <card number="1" price="0" name="Sunken Hollow"/>
-        <card number="1" price="0" name="Drowned Catacomb"/>
-        <card number="1" price="0" name="Temple of Deceit"/>
-        <card number="1" price="0" name="Lonely Sandbar"/>
-        <card number="1" price="0" name="Temple of the False God"/>
-        <card number="1" price="0" name="Haven of the Spirit Dragon"/>
-        <card number="1" price="0" name="Crucible of the Spirit Dragon"/>
-        <card number="1" price="0" name="Blighted Fen"/>
-        <card number="1" price="0" name="Blighted Cataract"/>
-        <card number="1" price="0" name="Barren Moor"/>
-        <card number="1" price="0" name="Mutavault"/>
-        <card number="1" price="0" name="Jwar Isle Refuge"/>
-        <card number="1" price="0" name="Dismal Backwater"/>
-        <card number="1" price="0" name="Noxious Dragon"/>
-        <card number="1" price="0" name="Ruthless Deathfang"/>
-        <card number="1" price="0" name="Dimir Guildgate"/>
-        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" name="Acid-Spewer Dragon"/>
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Belltoll Dragon"/>
+        <card number="1" name="Blighted Cataract"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="1" name="Body Double"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Bone Dragon"/>
+        <card number="1" name="Cairn Wanderer"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Conspiracy"/>
+        <card number="1" name="Crucible of the Spirit Dragon"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Cryptoplasm"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Dragonlord Silumgar"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Evil Twin"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Fated Infatuation"/>
+        <card number="1" name="Fated Return"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Gigantoplasm"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Hex"/>
+        <card number="1" name="Icefall Regent"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Lazav, Dimir Mastermind"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Memorial to Genius"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Mindscour Dragon"/>
+        <card number="1" name="Mirror Gallery"/>
+        <card number="1" name="Mist Dragon"/>
+        <card number="1" name="Mistform Ultimus"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Necromaster Dragon"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Noxious Dragon"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Polymorphist's Jest"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Quicksilver Dragon"/>
+        <card number="1" name="Quicksilver Gargantuan"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Ruthless Deathfang"/>
+        <card number="1" name="Shapesharer"/>
+        <card number="1" name="Silumgar Monument"/>
+        <card number="1" name="Silumgar's Command"/>
+        <card number="1" name="Sire of Stagnation"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Sudden Spoiling"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Treachery"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Vesuvan Shapeshifter"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Watery Grave"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Silumgar, the Drifting Death"/>
+        <card number="1" name="Silumgar, the Drifting Death"/>
     </zone>
 </cockatrice_deck>

@@ -3,24 +3,24 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Kiln Fiend"/>
-        <card number="4" price="0" name="Wee Dragonauts"/>
-        <card number="4" price="0" name="Stormchaser Mage"/>
-        <card number="4" price="0" name="Monastery Swiftspear"/>
-        <card number="1" price="0" name="Snapcaster Mage"/>
-        <card number="4" price="0" name="Lightning Bolt"/>
-        <card number="4" price="0" name="Brainstorm"/>
-        <card number="4" price="0" name="Electrolyze"/>
-        <card number="4" price="0" name="Fire // Ice"/>
-        <card number="4" price="0" name="Distortion Strike"/>
-        <card number="4" price="0" name="Island"/>
-        <card number="4" price="0" name="Mountain"/>
-        <card number="1" price="0" name="Chaos Warp"/>
-        <card number="1" price="0" name="Sin Prodder"/>
-        <card number="4" price="0" name="Scalding Tarn"/>
-        <card number="2" price="0" name="Volcanic Island"/>
-        <card number="4" price="0" name="Steam Vents"/>
-        <card number="2" price="0" name="Cascade Bluffs"/>
-        <card number="1" price="0" name="Wandering Fumarole"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="2" name="Cascade Bluffs"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="4" name="Distortion Strike"/>
+        <card number="4" name="Electrolyze"/>
+        <card number="4" name="Fire // Ice"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Kiln Fiend"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Scalding Tarn"/>
+        <card number="1" name="Sin Prodder"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Stormchaser Mage"/>
+        <card number="2" name="Volcanic Island"/>
+        <card number="1" name="Wandering Fumarole"/>
+        <card number="4" name="Wee Dragonauts"/>
     </zone>
 </cockatrice_deck>

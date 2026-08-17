@@ -3,97 +3,97 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Magma Jet"/>
-        <card number="1" price="0" name="Spinerock Knoll"/>
-        <card number="1" price="0" name="Tel-Jilad Stylus"/>
-        <card number="1" price="0" name="Temple of Malice"/>
-        <card number="1" price="0" name="Triskelavus"/>
-        <card number="1" price="0" name="Triskelion"/>
-        <card number="1" price="0" name="Duplicant"/>
-        <card number="1" price="0" name="Badlands"/>
-        <card number="1" price="0" name="Blood Crypt"/>
-        <card number="1" price="0" name="Bloodstained Mire"/>
-        <card number="1" price="0" name="Graven Cairns"/>
-        <card number="1" price="0" name="Rakdos Carnarium"/>
-        <card number="1" price="0" name="Dragonskull Summit"/>
-        <card number="1" price="0" name="Sulfurous Springs"/>
-        <card number="1" price="0" name="Shadowblood Ridge"/>
-        <card number="1" price="0" name="Bojuka Bog"/>
-        <card number="1" price="0" name="Maze of Ith"/>
-        <card number="1" price="0" name="Wasteland"/>
-        <card number="1" price="0" name="Strip Mine"/>
-        <card number="1" price="0" name="Ghost Quarter"/>
-        <card number="1" price="0" name="Barbarian Ring"/>
-        <card number="1" price="0" name="Cabal Pit"/>
-        <card number="1" price="0" name="Arcane Lighthouse"/>
-        <card number="1" price="0" name="Homeward Path"/>
-        <card number="1" price="0" name="Opal Palace"/>
-        <card number="1" price="0" name="Command Tower"/>
-        <card number="1" price="0" name="Lavaclaw Reaches"/>
-        <card number="2" price="0" name="Mountain"/>
-        <card number="10" price="0" name="Swamp"/>
-        <card number="1" price="0" name="Demonic Tutor"/>
-        <card number="1" price="0" name="Viscera Seer"/>
-        <card number="1" price="0" name="Zealous Conscripts"/>
-        <card number="1" price="0" name="Kiki-Jiki, Mirror Breaker"/>
-        <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Braid of Fire"/>
-        <card number="1" price="0" name="Flamerush Rider"/>
-        <card number="1" price="0" name="Cabal Coffers"/>
-        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" price="0" name="Expedition Map"/>
-        <card number="1" price="0" name="Junktroller"/>
-        <card number="1" price="0" name="Crypt Ghast"/>
-        <card number="1" price="0" name="Solemn Simulacrum"/>
-        <card number="1" price="0" name="Spawning Pool"/>
-        <card number="1" price="0" name="Akoum Refuge"/>
-        <card number="1" price="0" name="Howltooth Hollow"/>
-        <card number="1" price="0" name="Gray Merchant of Asphodel"/>
-        <card number="1" price="0" name="Chromatic Lantern"/>
-        <card number="1" price="0" name="Burnished Hart"/>
-        <card number="1" price="0" name="Black Market"/>
-        <card number="1" price="0" name="Heartstone"/>
-        <card number="1" price="0" name="Rakdos Guildgate"/>
-        <card number="1" price="0" name="Myr Battlesphere"/>
-        <card number="1" price="0" name="Sandstone Oracle"/>
-        <card number="1" price="0" name="Flayer of the Hatebound"/>
-        <card number="1" price="0" name="Homura, Human Ascendant"/>
-        <card number="1" price="0" name="Nirkana Revenant"/>
-        <card number="1" price="0" name="Ob Nixilis, Unshackled"/>
-        <card number="1" price="0" name="Vein Drinker"/>
-        <card number="1" price="0" name="Demon of Wailing Agonies"/>
-        <card number="1" price="0" name="Hoarding Dragon"/>
-        <card number="1" price="0" name="Malakir Bloodwitch"/>
-        <card number="1" price="0" name="Sidisi, Undead Vizier"/>
-        <card number="1" price="0" name="Urabrask the Hidden"/>
-        <card number="1" price="0" name="Ashenmoor Liege"/>
-        <card number="1" price="0" name="Falkenrath Aristocrat"/>
-        <card number="1" price="0" name="Falkenrath Noble"/>
-        <card number="1" price="0" name="Blood Artist"/>
-        <card number="1" price="0" name="Flametongue Kavu"/>
-        <card number="1" price="0" name="Mindslicer"/>
-        <card number="1" price="0" name="Magus of the Abyss"/>
-        <card number="1" price="0" name="Olivia, Mobilized for War"/>
-        <card number="1" price="0" name="Ascendant Evincar"/>
-        <card number="1" price="0" name="Skeletal Vampire"/>
-        <card number="1" price="0" name="Thief of Blood"/>
-        <card number="1" price="0" name="Anowon, the Ruin Sage"/>
-        <card number="1" price="0" name="Drana, Liberator of Malakir"/>
-        <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
-        <card number="1" price="0" name="Bloodline Keeper"/>
-        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
-        <card number="1" price="0" name="Sangromancer"/>
-        <card number="1" price="0" name="Vampire Nocturnus"/>
-        <card number="1" price="0" name="Captivating Vampire"/>
-        <card number="1" price="0" name="Stromkirk Captain"/>
-        <card number="1" price="0" name="Deathbringer Thoctar"/>
-        <card number="1" price="0" name="Fleshbag Marauder"/>
-        <card number="1" price="0" name="Crystal Ball"/>
-        <card number="1" price="0" name="Grim Poppet"/>
-        <card number="1" price="0" name="Dakmor Salvage"/>
-        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Ascendant Evincar"/>
+        <card number="1" name="Ashenmoor Liege"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Barbarian Ring"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodline Keeper"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Braid of Fire"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Cabal Pit"/>
+        <card number="1" name="Captivating Vampire"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Crystal Ball"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Deathbringer Thoctar"/>
+        <card number="1" name="Demon of Wailing Agonies"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" name="Drana, Liberator of Malakir"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Flamerush Rider"/>
+        <card number="1" name="Flametongue Kavu"/>
+        <card number="1" name="Flayer of the Hatebound"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Grim Poppet"/>
+        <card number="1" name="Heartstone"/>
+        <card number="1" name="Hoarding Dragon"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Homura, Human Ascendant"/>
+        <card number="1" name="Howltooth Hollow"/>
+        <card number="1" name="Junktroller"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" name="Lavaclaw Reaches"/>
+        <card number="1" name="Magma Jet"/>
+        <card number="1" name="Magus of the Abyss"/>
+        <card number="1" name="Malakir Bloodwitch"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mindslicer"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Nirkana Revenant"/>
+        <card number="1" name="Ob Nixilis, Unshackled"/>
+        <card number="1" name="Olivia, Mobilized for War"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Sangromancer"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Sidisi, Undead Vizier"/>
+        <card number="1" name="Skeletal Vampire"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spawning Pool"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Stromkirk Captain"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Tel-Jilad Stylus"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Thief of Blood"/>
+        <card number="1" name="Triskelavus"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Vampire Nocturnus"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Vein Drinker"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Zealous Conscripts"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
+        <card number="1" name="Grenzo, Dungeon Warden"/>
     </zone>
 </cockatrice_deck>

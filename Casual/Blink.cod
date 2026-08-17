@@ -3,21 +3,21 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Otherworldly Journey"/>
-        <card number="4" price="0" name="Momentary Blink"/>
-        <card number="2" price="0" name="Titanic Bulvox"/>
-        <card number="2" price="0" name="Towering Baloth"/>
-        <card number="4" price="0" name="Cloudshift"/>
-        <card number="4" price="0" name="Liberate"/>
-        <card number="2" price="0" name="Krosan Colossus"/>
-        <card number="2" price="0" name="Akroma, Angel of Fury"/>
-        <card number="2" price="0" name="Exalted Angel"/>
-        <card number="2" price="0" name="Quicksilver Dragon"/>
-        <card number="16" price="0" name="Plains"/>
-        <card number="8" price="0" name="Island"/>
-        <card number="1" price="0" name="Seal of Cleansing"/>
-        <card number="2" price="0" name="Sagu Mauler"/>
-        <card number="2" price="0" name="Nearheath Pilgrim"/>
-        <card number="3" price="0" name="Obscuring AEther"/>
+        <card number="2" name="Akroma, Angel of Fury"/>
+        <card number="4" name="Cloudshift"/>
+        <card number="2" name="Exalted Angel"/>
+        <card number="8" name="Island"/>
+        <card number="2" name="Krosan Colossus"/>
+        <card number="4" name="Liberate"/>
+        <card number="4" name="Momentary Blink"/>
+        <card number="2" name="Nearheath Pilgrim"/>
+        <card number="3" name="Obscuring AEther"/>
+        <card number="4" name="Otherworldly Journey"/>
+        <card number="16" name="Plains"/>
+        <card number="2" name="Quicksilver Dragon"/>
+        <card number="2" name="Sagu Mauler"/>
+        <card number="1" name="Seal of Cleansing"/>
+        <card number="2" name="Titanic Bulvox"/>
+        <card number="2" name="Towering Baloth"/>
     </zone>
 </cockatrice_deck>
