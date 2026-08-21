@@ -92,14 +92,6 @@
         <card number="1" name="Zuran Orb"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Blasted Landscape"/>
-        <card number="1" name="Desert of the Glorified"/>
-        <card number="1" name="Desert of the Indomitable"/>
-        <card number="1" name="Dunes of the Dead"/>
-        <card number="2" name="Forest"/>
-        <card number="1" name="Polluted Mire"/>
-        <card number="1" name="Slippery Karst"/>
-        <card number="3" name="Swamp"/>
         <card number="1" name="The Gitrog Monster"/>
     </zone>
 </cockatrice_deck>
