@@ -12,31 +12,32 @@
         <card number="1" name="Azusa, Lost but Seeking"/>
         <card number="1" name="Barren Moor"/>
         <card number="1" name="Bayou"/>
-        <card number="1" name="Blasted Landscape"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Bone Miser"/>
         <card number="1" name="Case of the Locked Hothouse"/>
         <card number="1" name="Conduit of Worlds"/>
         <card number="1" name="Courser of Kruphix"/>
-        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Crucible of Worlds"/>
         <card number="1" name="Dakmor Salvage"/>
-        <card number="1" name="Desert of the Glorified"/>
-        <card number="1" name="Desert of the Indomitable"/>
         <card number="1" name="Dread Return"/>
         <card number="1" name="Drownyard Temple"/>
         <card number="1" name="Druid Class"/>
-        <card number="1" name="Dunes of the Dead"/>
+        <card number="1" name="Everglades"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exploration"/>
         <card number="1" name="Festering Thicket"/>
         <card number="1" name="Field of the Dead"/>
-        <card number="6" name="Forest"/>
+        <card number="7" name="Forest"/>
         <card number="1" name="From the Catacombs"/>
         <card number="1" name="Genesis Wave"/>
         <card number="1" name="Glacial Chasm"/>
         <card number="1" name="Golgari Grave-Troll"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Golgari Thug"/>
+        <card number="1" name="Guildless Commons"/>
         <card number="1" name="Icetill Explorer"/>
+        <card number="1" name="Jungle Basin"/>
         <card number="1" name="Life from the Loam"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Loot, Exuberant Explorer"/>
@@ -44,14 +45,13 @@
         <card number="1" name="Lumra, Bellow of the Woods"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Meteor Golem"/>
         <card number="1" name="Mossborn Hydra"/>
-        <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Noose Constrictor"/>
         <card number="1" name="Ob Nixilis, the Fallen"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Petrified Field"/>
-        <card number="1" name="Polluted Mire"/>
         <card number="1" name="Ramunap Excavator"/>
         <card number="1" name="Retreat to Hagra"/>
         <card number="1" name="Rise of the Dark Realms"/>
@@ -61,21 +61,19 @@
         <card number="1" name="Shifting Woodland"/>
         <card number="1" name="Six"/>
         <card number="1" name="Skirge Familiar"/>
-        <card number="1" name="Slippery Karst"/>
         <card number="1" name="Songbird, Sonic Screamer"/>
         <card number="1" name="Spelunking"/>
-        <card number="1" name="Spider Spawning"/>
         <card number="1" name="Splendid Reclamation"/>
         <card number="1" name="Springheart Nantuko"/>
         <card number="1" name="Squandered Resources"/>
         <card number="1" name="Stinkweed Imp"/>
         <card number="1" name="Strip Mine"/>
-        <card number="6" name="Swamp"/>
+        <card number="7" name="Swamp"/>
         <card number="1" name="Sylvan Safekeeper"/>
         <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Timeless Witness"/>
         <card number="1" name="Tireless Provisioner"/>
-        <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Titania, Protector of Argoth"/>
         <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Tranquil Thicket"/>
@@ -94,10 +92,14 @@
         <card number="1" name="Zuran Orb"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Blasted Landscape"/>
+        <card number="1" name="Desert of the Glorified"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="1" name="Dunes of the Dead"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Polluted Mire"/>
+        <card number="1" name="Slippery Karst"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="The Gitrog Monster"/>
-        <card number="1" name="The Gitrog, Ravenous Ride"/>
-        <card number="1" name="Ulamog, the Infinite Gyre"/>
-        <card number="1" name="Ulvenwald Behemoth"/>
     </zone>
 </cockatrice_deck>
