@@ -30,7 +30,6 @@
         <card number="1" name="Doom Weaver"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Duplicant"/>
-        <card number="1" name="Epitaph Golem"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Flamerush Rider"/>
         <card number="1" name="Ghost Quarter"/>
@@ -50,10 +49,10 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="M.O.D.O.K."/>
         <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Memorial to War"/>
         <card number="1" name="Meteor Golem"/>
-        <card number="2" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Nadier, Agent of the Duskenel"/>
+        <card number="1" name="Nekrataal"/>
         <card number="1" name="Noosegraf Mob"/>
         <card number="1" name="Ob Nixilis, the Fallen"/>
         <card number="1" name="Ogre Battledriver"/>
@@ -73,10 +72,9 @@
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Solemn Simulacrum"/>
-        <card number="1" name="Spawning Pool"/>
         <card number="1" name="Spinerock Knoll"/>
         <card number="1" name="Sulfurous Springs"/>
-        <card number="9" name="Swamp"/>
+        <card number="10" name="Swamp"/>
         <card number="1" name="Tel-Jilad Stylus"/>
         <card number="1" name="Temple of Malice"/>
         <card number="1" name="The Walls of Ba Sing Se"/>
@@ -95,6 +93,7 @@
         <card number="1" name="Zhalfirin Void"/>
     </zone>
     <zone name="side">
+        <card number="1" name="Epitaph Golem"/>
         <card number="1" name="Grenzo, Dungeon Warden"/>
     </zone>
 </cockatrice_deck>
