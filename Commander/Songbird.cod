@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancient Brass Dragon"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Archfiend of Ifnir"/>
+        <card number="1" name="Archon of Cruelty"/>
+        <card number="1" name="Archpriest of Shadows"/>
+        <card number="1" name="Ardyn, the Usurper"/>
+        <card number="1" name="Armaggon, Future Shark"/>
+        <card number="1" name="Baleful Force"/>
+        <card number="1" name="Balthor the Defiled"/>
+        <card number="1" name="Blood Scrivener"/>
+        <card number="1" name="Boggart Trawler"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Chainer, Dementia Master"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Coiling Rebirth"/>
+        <card number="1" name="Corpse Dance"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Dance of the Dead"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Decorum Dissertation"/>
+        <card number="1" name="Doctor Doom"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Elder Brain"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Exhume"/>
+        <card number="1" name="Fell the Profane"/>
+        <card number="1" name="Galactus, Devourer of Worlds"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Grave Researcher // Reanimate"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Incarnation Technique"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="K'rrik, Son of Yawgmoth"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Metamorphosis Fanatic"/>
+        <card number="1" name="Monument to Endurance"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="1" name="Orcish Bowmasters"/>
+        <card number="1" name="Persist"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Prison Break"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Recurring Nightmare"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Restart Sequence"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Shadowgrange Archfiend"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Soul Exchange"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Summon: Bahamut"/>
+        <card number="29" name="Swamp"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Twilight Diviner"/>
+        <card number="1" name="Unmarked Grave"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Urza's Cave"/>
+        <card number="1" name="Valgavoth, Terror Eater"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Vilis, Broker of Blood"/>
+        <card number="1" name="Will of the Abzan"/>
+        <card number="1" name="Zombify"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Songbird, Sonic Screamer"/>
+    </zone>
+</cockatrice_deck>
