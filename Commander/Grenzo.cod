@@ -93,7 +93,6 @@
         <card number="1" name="Zhalfirin Void"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Epitaph Golem"/>
         <card number="1" name="Grenzo, Dungeon Warden"/>
     </zone>
 </cockatrice_deck>
