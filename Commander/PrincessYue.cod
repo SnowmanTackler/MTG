@@ -11,17 +11,18 @@
         <card number="1" name="Coalition Relic"/>
         <card number="1" name="Conduit Pylons"/>
         <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Cryptoplasm"/>
         <card number="1" name="Crystal Grotto"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Deserted Temple"/>
         <card number="1" name="Evacuation"/>
         <card number="1" name="Fallowsage"/>
         <card number="1" name="Force of Will"/>
-        <card number="1" name="Frantic Search"/>
         <card number="1" name="Gigantoplasm"/>
         <card number="1" name="Gilded Lotus"/>
         <card number="1" name="Glasspool Mimic"/>
         <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Gran-Gran"/>
         <card number="1" name="Grim Monolith"/>
         <card number="1" name="Hidden Grotto"/>
         <card number="1" name="Homunculus Horde"/>
@@ -30,10 +31,10 @@
         <card number="28" name="Island"/>
         <card number="1" name="Jace, the Mind Sculptor"/>
         <card number="1" name="Lighthouse Chronologist"/>
+        <card number="1" name="Machine God's Effigy"/>
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Mana Vault"/>
-        <card number="1" name="Mirror Box"/>
-        <card number="1" name="Mirror Gallery"/>
+        <card number="1" name="Mechan Navigator"/>
         <card number="1" name="Mirror Image"/>
         <card number="1" name="Mirrorhall Mimic"/>
         <card number="1" name="Naga Fleshcrafter"/>
@@ -50,9 +51,9 @@
         <card number="1" name="Rite of Replication"/>
         <card number="1" name="Roil Elemental"/>
         <card number="1" name="Rumble Arena"/>
-        <card number="1" name="Sakashima of a Thousand Faces"/>
         <card number="1" name="Sakashima's Student"/>
         <card number="1" name="Scaretiller"/>
+        <card number="1" name="Silvergill Peddler"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Spark Double"/>
@@ -64,8 +65,7 @@
         <card number="1" name="Tezzeret the Seeker"/>
         <card number="1" name="The Blue Spirit"/>
         <card number="1" name="Thespian's Stage"/>
-        <card number="1" name="Treachery"/>
-        <card number="1" name="Turnabout"/>
+        <card number="1" name="Throne of Eldraine"/>
         <card number="1" name="Undercover Operative"/>
         <card number="1" name="Unwind"/>
         <card number="1" name="Vedalken Shackles"/>
