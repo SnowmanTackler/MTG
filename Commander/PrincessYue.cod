@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arbiter of the Ideal"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Boompile"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Conduit Pylons"/>
+        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Crystal Grotto"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Deserted Temple"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Gigantoplasm"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Glasspool Mimic"/>
+        <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Hidden Grotto"/>
+        <card number="1" name="Homunculus Horde"/>
+        <card number="1" name="Hulking Metamorph"/>
+        <card number="1" name="Hullbreaker Horror"/>
+        <card number="28" name="Island"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Lighthouse Chronologist"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Mirror Box"/>
+        <card number="1" name="Mirror Gallery"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="1" name="Mirrorhall Mimic"/>
+        <card number="1" name="Naga Fleshcrafter"/>
+        <card number="1" name="Nanoform Sentinel"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Otawara, Soaring City"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Planetarium of Wan Shi Tong"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Platinum Emperion"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Rumble Arena"/>
+        <card number="1" name="Sakashima of a Thousand Faces"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Scaretiller"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Sphinx of the Second Sun"/>
+        <card number="1" name="Stunt Double"/>
+        <card number="1" name="Surgespanner"/>
+        <card number="1" name="Synth Infiltrator"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Tezzeret the Seeker"/>
+        <card number="1" name="The Blue Spirit"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Treachery"/>
+        <card number="1" name="Turnabout"/>
+        <card number="1" name="Undercover Operative"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Vedalken Shackles"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Vesuvan Shapeshifter"/>
+        <card number="1" name="Visage Bandit"/>
+        <card number="1" name="Vizier of Many Faces"/>
+        <card number="1" name="Wall of Stolen Identity"/>
+        <card number="1" name="Waxen Shapethief"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Princess Yue"/>
+    </zone>
+</cockatrice_deck>
