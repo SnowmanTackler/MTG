@@ -15,6 +15,7 @@
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Bone Miser"/>
+        <card number="1" name="Boseiju, Who Endures"/>
         <card number="1" name="Case of the Locked Hothouse"/>
         <card number="1" name="Conduit of Worlds"/>
         <card number="1" name="Courser of Kruphix"/>
@@ -28,9 +29,8 @@
         <card number="1" name="Exploration"/>
         <card number="1" name="Festering Thicket"/>
         <card number="1" name="Field of the Dead"/>
-        <card number="7" name="Forest"/>
+        <card number="6" name="Forest"/>
         <card number="1" name="From the Catacombs"/>
-        <card number="1" name="Genesis Wave"/>
         <card number="1" name="Glacial Chasm"/>
         <card number="1" name="Golgari Grave-Troll"/>
         <card number="1" name="Golgari Rot Farm"/>
@@ -52,6 +52,7 @@
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Petrified Field"/>
         <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Retreat to Hagra"/>
         <card number="1" name="Rise of the Dark Realms"/>
         <card number="1" name="Sakura-Tribe Elder"/>
@@ -68,8 +69,9 @@
         <card number="1" name="Squandered Resources"/>
         <card number="1" name="Stinkweed Imp"/>
         <card number="1" name="Strip Mine"/>
-        <card number="7" name="Swamp"/>
+        <card number="6" name="Swamp"/>
         <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
         <card number="1" name="Temple of Malady"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Timeless Witness"/>
